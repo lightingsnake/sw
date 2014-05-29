@@ -1,0 +1,208 @@
+ID;Active (0/1);Name *;Categories (x,y,z...);Price tax excluded or Price tax included;Tax rules ID;Wholesale price;On sale (0/1);Reference #;Manufacturer;Quantity;Minimal quantity;Visibility;Short description;Description;Tags (x,y,z...);Text when in stock;Text when backorder allowed;Available for order (0 = No, 1 = Yes);Show price (0 = No, 1 = Yes);Condition
+1;1;CAMISA PL OXFORD MANGA CORTA;CAMISAS;$ 19.990 ;1;$ 19.990 ;1;5051;POLO RALPH LAUREN;1;1;;Texto de muestra para describir el producto;;POLO RALPH LAUREN;Disponible;;;;new
+2;1;CAMISA LC RAYAS-CUADROS MANGA CORTA;CAMISAS;$ 19.990 ;1;$ 19.990 ;1;5058;LACOSTE;1;1;;Texto de muestra para describir el producto;;LACOSTE;Disponible;;;;new
+3;1;CAMISA A F OXFORD MANGA LARGA;CAMISAS;$ 19.990 ;1;$ 19.990 ;1;5065;ABERCROMBIE;1;1;;Texto de muestra para describir el producto;;ABERCROMBIE;Disponible;;;;new
+4;1;BOXER TM;BOXER;$ 17.990 ;1;$ 17.990 ;1;7123;TOMMY HILFIGER;1;1;;Texto de muestra para describir el producto;;TOMMY HILFIGER;Disponible;;;;new
+5;1;BOXER VRS;BOXER;$ 17.990 ;1;$ 17.990 ;1;7124;VERSACE;1;1;;Texto de muestra para describir el producto;;VERSACE;Disponible;;;;new
+6;1;BOXER HB;BOXER;$ 17.990 ;1;$ 17.990 ;1;7140;HUGO BOSS;1;1;;Texto de muestra para describir el producto;;HUGO BOSS;Disponible;;;;new
+7;1;BOXER A/X;BOXER;$ 17.990 ;1;$ 17.990 ;1;7141;ARMANI EXCHANGE;1;1;;Texto de muestra para describir el producto;;ARMANI EXCHANGE;Disponible;;;;new
+8;1;BOXER C-K;BOXER;$ 17.990 ;1;$ 17.990 ;1;7154;CALVIN KLEIN;1;1;;Texto de muestra para describir el producto;;CALVIN KLEIN;Disponible;;;;new
+9;1;BOXER GS;BOXER;$ 18.000 ;1;$ 18.000 ;1;7189;GUESS;1;1;;Texto de muestra para describir el producto;;GUESS;Disponible;;;;new
+10;1;GAFAS SPY+;GAFAS;$ 24.990 ;1;$ 24.990 ;1;7264;SPY;1;1;;Texto de muestra para describir el producto;;SPY;Disponible;;;;new
+11;1;JEAN DS 11328;JEANS;$ 89.990 ;1;$ 89.990 ;1;11328;DIESEL;1;1;;Texto de muestra para describir el producto;;DIESEL;Disponible;;;;new
+12;1;CARRIEL KLEY REF: 24;JEANS;$ 49.990 ;1;$ 49.990 ;1;7,61E+11;OAKLEY;1;1;;Texto de muestra para describir el producto;;OAKLEY;Disponible;;;;new
+13;1;BUSO PL CH 01 ROJO;JEANS;$ 90.000 ;1;$ 90.000 ;1;7,91E+11;POLO RALPH LAUREN;1;1;;Texto de muestra para describir el producto;;POLO RALPH LAUREN;Disponible;;;;new
+14;1;JEAN AVALON HOMBRE REF: 1985 TALLA 36;JEANS;$ 89.990 ;1;$ 89.990 ;1;1,00E+12;AVALON;1;1;;Texto de muestra para describir el producto;;AVALON;Disponible;;;;new
+15;1;JEAN EFECTO X REF: 0056 TALLA: 30;JEANS;$ 89.990 ;1;$ 89.990 ;1;1,00E+12;EFECTO X;1;1;;Texto de muestra para describir el producto;;EFECTO X;Disponible;;;;new
+16;1;JEAN DS REF 03060 TALLA 32;JEANS;$ 89.990 ;1;$ 89.990 ;1;1,00E+12;DIESEL;1;1;;Texto de muestra para describir el producto;;DIESEL;Disponible;;;;new
+17;1;JEAN HOMBRE KUARZO 4606 30;JEANS;$ 99.990 ;1;$ 99.990 ;1;1,00E+12;KUARZO;1;1;;Texto de muestra para describir el producto;;KUARZO;Disponible;;;;new
+18;1;JEAN EDEN S20 TALLA 28;JEANS;$ 99.990 ;1;$ 99.990 ;1;1,00E+12;EDEN;1;1;;Texto de muestra para describir el producto;;EDEN;Disponible;;;;new
+19;1;JEAN SHLOMI 1127 TALLA 34;JEANS;$ 119.990 ;1;$ 119.990 ;1;1,00E+12;SHLOMI;1;1;;Texto de muestra para describir el producto;;SHLOMI;Disponible;;;;new
+20;1;MALETIN CAT 17;MALETIN;$ 154.990 ;1;$ 154.990 ;1;1,60E+12;CAT;1;1;;Texto de muestra para describir el producto;;CAT;Disponible;;;;new
+21;1;MALETIN U-ARMOUR 003 VERDE;MALETIN;$ 72.990 ;1;$ 72.990 ;1;1,60E+12;UNDER ARMOUR;1;1;;Texto de muestra para describir el producto;;UNDER ARMOUR;Disponible;;;;new
+22;1;PANTALON L.V.S REF: 73008 COLOR AZUL TALLA 34;PANTALONES;$ 89.990 ;1;$ 89.990 ;1;2,00E+12;LEVIS;1;1;;Texto de muestra para describir el producto;;LEVIS;Disponible;;;;new
+23;1;PANTALON AYF CAMUFLADO 30;PANTALONES;$ 99.990 ;1;$ 99.990 ;1;2,00E+12;ABERCROMBIE;1;1;;Texto de muestra para describir el producto;;ABERCROMBIE;Disponible;;;;new
+24;1;BERMUDA BILL 3525 ROJA TALLA 28;BERMUDAS;$ 39.990 ;1;$ 39.990 ;1;3,00E+12;BILLABONG;1;1;;Texto de muestra para describir el producto;;BILLABONG;Disponible;;;;new
+25;1;BERMUDA QS 3026 ROJA TALLA 28;BERMUDAS;$ 39.990 ;1;$ 39.990 ;1;3,00E+12;QUICKSILVER;1;1;;Texto de muestra para describir el producto;;QUICKSILVER;Disponible;;;;new
+26;1;BERMUDA BILL REF 6 1 ROJO TALLA 32;BERMUDAS;$ 39.990 ;1;$ 39.990 ;1;3,00E+12;BILLABONG;1;1;;Texto de muestra para describir el producto;;BILLABONG;Disponible;;;;new
+27;1;BERMUDA AVALON REF 3149 NEGRO 32;BERMUDAS;$ 74.990 ;1;$ 74.990 ;1;3,00E+12;AVALON;1;1;;Texto de muestra para describir el producto;;AVALON;Disponible;;;;new
+28;1;BERMUDA LOBO 1128 ROJO 30;BERMUDAS;$ 39.990 ;1;$ 39.990 ;1;3,00E+12;FOX;1;1;;Texto de muestra para describir el producto;;FOX;Disponible;;;;new
+29;1;BERMUDA GOTCHA 2766470 NEGRO S;BERMUDAS;$ 34.990 ;1;$ 34.990 ;1;3,00E+12;GOTCHA;1;1;;Texto de muestra para describir el producto;;GOTCHA;Disponible;;;;new
+30;1;BERMUDA AD 26261 VERDE L;BERMUDAS;$ 29.990 ;1;$ 29.990 ;1;3,00E+12;ADIDAS;1;1;;Texto de muestra para describir el producto;;ADIDAS;Disponible;;;;new
+31;1;BERMUDA HURLEY 1326 AZUL OSCURA TALLA 38;BERMUDAS;$ 39.990 ;1;$ 39.990 ;1;3,00E+12;HURLEY;1;1;;Texto de muestra para describir el producto;;HURLEY;Disponible;;;;new
+32;1;BERMUDA AYF DRIL AZUL 34;BERMUDAS;$ 69.990 ;1;$ 69.990 ;1;3,00E+12;ABERCROMBIE;1;1;;Texto de muestra para describir el producto;;ABERCROMBIE;Disponible;;;;new
+33;1;BERMUDA BANANA 118 ROJO 30;BERMUDAS;$ 44.990 ;1;$ 44.990 ;1;3,00E+12;BANANA;1;1;;Texto de muestra para describir el producto;;BANANA;Disponible;;;;new
+34;1;BERMUDA SUPERDRY S1 NARANJA S;BERMUDAS;$ 49.990 ;1;$ 49.990 ;1;3,00E+12;SUPERDRY;1;1;;Texto de muestra para describir el producto;;SUPERDRY;Disponible;;;;new
+35;1;BERMUDA VOLCOM V7 GRIS 34;BERMUDAS;$ 39.990 ;1;$ 39.990 ;1;3,00E+12;VOLCOM;1;1;;Texto de muestra para describir el producto;;VOLCOM;Disponible;;;;new
+36;1;BERMUDA A-STARS 244 NEGRA 30;BERMUDAS;$ 39.990 ;1;$ 39.990 ;1;3,00E+12;ALPINESTARS;1;1;;Texto de muestra para describir el producto;;ALPINESTARS;Disponible;;;;new
+37;1;BERMUDA ZOLO 2111 GRIS 32;BERMUDAS;$ 51.990 ;1;$ 51.990 ;1;3,00E+12;ZOLO JEANS;1;1;;Texto de muestra para describir el producto;;ZOLO JEANS;Disponible;;;;new
+38;1;BERMUDA KUARZO 4757 TALLA 30;BERMUDAS;$ 94.990 ;1;$ 94.990 ;1;3,00E+12;KUARZO;1;1;;Texto de muestra para describir el producto;;KUARZO;Disponible;;;;new
+39;1;BERMUDA FUNK GO-200 AMARILLO 30;BERMUDAS;$ 54.990 ;1;$ 54.990 ;1;3,00E+12;NIKE;1;1;;Texto de muestra para describir el producto;;NIKE;Disponible;;;;new
+40;1;PANTALONETA AD 1887 COLOR NEGRO TALLA 2XL;BERMUDAS;$ 34.990 ;1;$ 34.990 ;1;4,00E+12;ADIDAS;1;1;;Texto de muestra para describir el producto;;ADIDAS;Disponible;;;;new
+41;1;PANTALONETA PM 8661 NEGRA TALLA XXL;BERMUDAS;$ 39.990 ;1;$ 39.990 ;1;4,00E+12;PUMA;1;1;;Texto de muestra para describir el producto;;PUMA;Disponible;;;;new
+42;1;SUDADERA AD K1157 AZUL REY XL;SUDADERAS;$ 44.990 ;1;$ 44.990 ;1;4,10E+12;ADIDAS;1;1;;Texto de muestra para describir el producto;;ADIDAS;Disponible;;;;new
+43;1;SUDADERA CONJUNTO NK F-3368 TALLA L;SUDADERAS;$ 44.990 ;1;$ 44.990 ;1;4,10E+12;NIKE;1;1;;Texto de muestra para describir el producto;;NIKE;Disponible;;;;new
+44;1;SUDADERA PM 11563 NEGRO M;SUDADERAS;$ 49.990 ;1;$ 49.990 ;1;4,10E+12;PUMA;1;1;;Texto de muestra para describir el producto;;PUMA;Disponible;;;;new
+45;1;CAMISA USED 119460;CAMISAS;$ 104.500 ;1;$ 104.500 ;1;5,00E+12;USED;1;1;;Texto de muestra para describir el producto;;USED;Disponible;;;;new
+46;1;CAMISA XTON 2043 BLANCO M;CAMISAS;$ 79.990 ;1;$ 79.990 ;1;5,00E+12;XTON;1;1;;Texto de muestra para describir el producto;;XTON;Disponible;;;;new
+47;1;CAMISA G-STAR CUADROS 0026 M;CAMISAS;$ 54.990 ;1;$ 54.990 ;1;5,00E+12;G-STAR;1;1;;Texto de muestra para describir el producto;;G-STAR;Disponible;;;;new
+48;1;CAMISA A Y F CUADROS 001 M;CAMISAS;$ 54.990 ;1;$ 54.990 ;1;5,00E+12;ABERCROMBIE;1;1;;Texto de muestra para describir el producto;;ABERCROMBIE;Disponible;;;;new
+49;1;CAMISA PL M/L ROJO XL;CAMISAS;$ 54.990 ;1;$ 54.990 ;1;5,00E+12;POLO RALPH LAUREN;1;1;;Texto de muestra para describir el producto;;POLO RALPH LAUREN;Disponible;;;;new
+50;1;CAMISA LC M/C RAYAS-CUADROS;CAMISAS;$ 49.990 ;1;$ 49.990 ;1;5,08E+12;LACOSTE;1;1;;Texto de muestra para describir el producto;;LACOSTE;Disponible;;;;new
+51;1;CAMISA HL M/C RAYAS CUADROS;CAMISAS;$ 49.990 ;1;$ 49.990 ;1;5,10E+12;HOLLISTER;1;1;;Texto de muestra para describir el producto;;HOLLISTER;Disponible;;;;new
+52;1;CAMISA A/X REF: CR012;CAMISAS;$ 29.990 ;1;$ 29.990 ;1;5,11E+12;ARMANI EXCHANGE;1;1;;Texto de muestra para describir el producto;;ARMANI EXCHANGE;Disponible;;;;new
+53;1;CAMISETA AE DEGRADADO;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;AMERICAN EAGLE;1;1;;Texto de muestra para describir el producto;;AMERICAN EAGLE;Disponible;;;;new
+54;1;CAMISETA AERO LETRAS CAMBIANTES;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;AEROPOSTALE;1;1;;Texto de muestra para describir el producto;;AEROPOSTALE;Disponible;;;;new
+55;1;CAMISETA FOX ESTRELLA ROCKSTAR TALLA S  NEGRA;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;FOX;1;1;;Texto de muestra para describir el producto;;FOX;Disponible;;;;new
+56;1;CAMISETA MFG REF: 0023 TALLA S AZUL OSC.;CAMISETAS;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;GIRBAUD;1;1;;Texto de muestra para describir el producto;;GIRBAUD;Disponible;;;;new
+57;1;CAMISETA MONSTER REF: 0024 BLANCO TALLA M;CAMISETAS;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;MONSTER;1;1;;Texto de muestra para describir el producto;;MONSTER;Disponible;;;;new
+58;1;CAMISETA L.V.S REF: 0031 NEGRO TALLA: S;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;LEVIS;1;1;;Texto de muestra para describir el producto;;LEVIS;Disponible;;;;new
+59;1;CAMISETA QS REF: 0034 BLANCO TALLA: S;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;QUICKSILVER;1;1;;Texto de muestra para describir el producto;;QUICKSILVER;Disponible;;;;new
+60;1;CAMISETA H.EX WORLD REF: 0038 GRIS TALLA S;CAMISETAS;$ 54.990 ;1;$ 54.990 ;1;6,00E+12;HEX;1;1;;Texto de muestra para describir el producto;;HEX;Disponible;;;;new
+61;1;CAMISETA BILL CHICA ESPALDA NEGRO TALLA S;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;BILLABONG;1;1;;Texto de muestra para describir el producto;;BILLABONG;Disponible;;;;new
+62;1;CAMISETA ROCKSTAR ESTRELLA TRASERA BLANCO TALLA XL;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;ROCKSTAR;1;1;;Texto de muestra para describir el producto;;ROCKSTAR;Disponible;;;;new
+63;1;CAMISETA MARTINA 190 AZUL OSC M;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;LA MARTINA;1;1;;Texto de muestra para describir el producto;;LA MARTINA;Disponible;;;;new
+64;1;CAMISETA CHEVI REF: Y002 ROJA TALLA S;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;CHEVIGNON;1;1;;Texto de muestra para describir el producto;;CHEVIGNON;Disponible;;;;new
+65;1;CAMISETA DS REF: Y--003 BLANCO TALLA XL;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;DIESEL;1;1;;Texto de muestra para describir el producto;;DIESEL;Disponible;;;;new
+66;1;CAMISETA CHILLOUT 1922 VERDE LIMON M;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;CHILLOUT;1;1;;Texto de muestra para describir el producto;;CHILLOUT;Disponible;;;;new
+67;1;CAMISETA MARTINA 193 NEGRO L;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;LA MARTINA;1;1;;Texto de muestra para describir el producto;;LA MARTINA;Disponible;;;;new
+68;1;CAMISETA HACKETT BLANCO M;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;HACKETT;1;1;;Texto de muestra para describir el producto;;HACKETT;Disponible;;;;new
+69;1;CAMISETA FERRARI FF118 NEGRO M;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;FERRARI;1;1;;Texto de muestra para describir el producto;;FERRARI;Disponible;;;;new
+70;1;CAMISETA PORSCHE P911 NEGRO M;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;PORSCHE;1;1;;Texto de muestra para describir el producto;;PORSCHE;Disponible;;;;new
+71;1;CAMISETA AYF REF: 6072;CAMISETAS;$ 44.990 ;1;$ 44.990 ;1;6,00E+12;ABERCROMBIE;1;1;;Texto de muestra para describir el producto;;ABERCROMBIE;Disponible;;;;new
+72;1;CAMISETA TAPOUT BREAK BLANCO XL;CAMISETAS;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;TAPOUT;1;1;;Texto de muestra para describir el producto;;TAPOUT;Disponible;;;;new
+73;1;CAMISETA TM M012 ROJO TALLA M;CAMISETAS;$ 69.990 ;1;$ 69.990 ;1;6,00E+12;TOMMY HILFIGER;1;1;;Texto de muestra para describir el producto;;TOMMY HILFIGER;Disponible;;;;new
+74;1;CAMISETA METAL OBSERVATION NEGRO TALLA M;CAMISETAS;$ 39.900 ;1;$ 39.900 ;1;6,00E+12;METAL MULISHA;1;1;;Texto de muestra para describir el producto;;METAL MULISHA;Disponible;;;;new
+75;1;Camiseta SWAG Ref: Facebook Rojo Talla M;CAMISETAS;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;SWAG;1;1;;Texto de muestra para describir el producto;;SWAG;Disponible;;;;new
+76;1;CAMISETA KLEY 3010 AZUL OSC S;CAMISETAS;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;OAKLEY;1;1;;Texto de muestra para describir el producto;;OAKLEY;Disponible;;;;new
+77;1;CAMISETA HL G-72 AZUL REY L;CAMISETAS;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;HOLLISTER;1;1;;Texto de muestra para describir el producto;;HOLLISTER;Disponible;;;;new
+78;1;CAMISETA OLD NAVI CALIFORNIA BLANCO S;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;OLD NAVY;1;1;;Texto de muestra para describir el producto;;OLD NAVY;Disponible;;;;new
+79;1;CAMISETA CONVERSE BOSTON ROJO S;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;CONVERSE;1;1;;Texto de muestra para describir el producto;;CONVERSE;Disponible;;;;new
+80;1;CAMISETA CONVERSE BOSTON AZUL REY XL;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;CONVERSE;1;1;;Texto de muestra para describir el producto;;CONVERSE;Disponible;;;;new
+81;1;CAMISETA CHEVI LONDON AGUAMARINA TALLA XL;CAMISETAS;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;CHEVIGNON;1;1;;Texto de muestra para describir el producto;;CHEVIGNON;Disponible;;;;new
+82;1;CAMISETA BANDA MARINE AZUL REY S;CAMISETAS;$ 54.990 ;1;$ 54.990 ;1;6,00E+12;TECHNOMARINE;1;1;;Texto de muestra para describir el producto;;TECHNOMARINE;Disponible;;;;new
+83;1;CAMIBUSO MARINE BLANCO L;BUSO;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;TECHNOMARINE;1;1;;Texto de muestra para describir el producto;;TECHNOMARINE;Disponible;;;;new
+84;1;CAMISETA MADNESS LIMITS NEGRO L;CAMISETAS;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;MADNESS;1;1;;Texto de muestra para describir el producto;;MADNESS;Disponible;;;;new
+85;1;CAMISETA TM 1229 VERDE XXL;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;TOMMY HILFIGER;1;1;;Texto de muestra para describir el producto;;TOMMY HILFIGER;Disponible;;;;new
+86;1;CAMISETA AERO 805 GRIS L;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;AEROPOSTALE;1;1;;Texto de muestra para describir el producto;;AEROPOSTALE;Disponible;;;;new
+87;1;CAMISETA PORSCHE P988 BLANCO TALLA M;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;PORSCHE;1;1;;Texto de muestra para describir el producto;;PORSCHE;Disponible;;;;new
+88;1;CAMISETA BMW M3 NEGRO TALLA M;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;BMW;1;1;;Texto de muestra para describir el producto;;BMW;Disponible;;;;new
+89;1;CAMISETA AD 111 FUCSIA L;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;ADIDAS;1;1;;Texto de muestra para describir el producto;;ADIDAS;Disponible;;;;new
+90;1;CAMISETA GLOTT 0038 BLANCO M;CAMISETAS;$ 41.990 ;1;$ 41.990 ;1;6,00E+12;GLOTT;1;1;;Texto de muestra para describir el producto;;GLOTT;Disponible;;;;new
+91;1;CAMISETA KLEY CHAOS ROJO S;CAMISETAS;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;OAKLEY;1;1;;Texto de muestra para describir el producto;;OAKLEY;Disponible;;;;new
+92;1;CAMIBUSO DS RAYADO BLANCO XL;BUSO;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;DIESEL;1;1;;Texto de muestra para describir el producto;;DIESEL;Disponible;;;;new
+93;1;CAMISETA TM CRUZ BLANCO L;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;TOMMY HILFIGER;1;1;;Texto de muestra para describir el producto;;TOMMY HILFIGER;Disponible;;;;new
+94;1;CAMISETA GAP COMPUTERS GAZUL OSC M;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,00E+12;GAP;1;1;;Texto de muestra para describir el producto;;GAP;Disponible;;;;new
+95;1;CAMISETA SUPERDRY 8812 ROJO;CAMISETAS;$ 44.990 ;1;$ 44.990 ;1;6,00E+12;SUPERDRY;1;1;;Texto de muestra para describir el producto;;SUPERDRY;Disponible;;;;new
+96;1;CAMISETA CIRKUS EVERYONE WANTS TO LOOK GOOD BLANCO M;CAMISETAS;$ 47.990 ;1;$ 47.990 ;1;6,00E+12;CIRKUS;1;1;;Texto de muestra para describir el producto;;CIRKUS;Disponible;;;;new
+97;1;CAMISETA CIRKUS COOL BLANCO L;CAMISETAS;$ 47.990 ;1;$ 47.990 ;1;6,00E+12;CIRKUS;1;1;;Texto de muestra para describir el producto;;CIRKUS;Disponible;;;;new
+98;1;CAMISETA BUFEO AZUL CLARO M;CAMISETAS;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;BUFEO;1;1;;Texto de muestra para describir el producto;;BUFEO;Disponible;;;;new
+99;1;CAMISETA TAPOUT CULEBRAS BLANCO S;CAMISETAS;$ 44.990 ;1;$ 44.990 ;1;6,00E+12;TAPOUT;1;1;;Texto de muestra para describir el producto;;TAPOUT;Disponible;;;;new
+100;1;CAMISETA GS 4016 ROJO M;CAMISETAS;$ 34.990 ;1;$ 34.990 ;1;6,00E+12;GUESS;1;1;;Texto de muestra para describir el producto;;GUESS;Disponible;;;;new
+101;1;CAMISETA NC ENGL BLANCA S;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;NAUTICA;1;1;;Texto de muestra para describir el producto;;NAUTICA;Disponible;;;;new
+102;1;CAMISETA PS 901525 AMARILLA L;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;PORSCHE;1;1;;Texto de muestra para describir el producto;;PORSCHE;Disponible;;;;new
+103;1;CAMISETA XZVI 0514 BLANCA L;CAMISETAS;$ 44.990 ;1;$ 44.990 ;1;6,00E+12;XZAVIER;1;1;;Texto de muestra para describir el producto;;XZAVIER;Disponible;;;;new
+104;1;CAMISETA EK RINO VINOTINTO L;CAMISETAS;$ 44.990 ;1;$ 44.990 ;1;6,00E+12;ECKO;1;1;;Texto de muestra para describir el producto;;ECKO;Disponible;;;;new
+105;1;CAMIBUSO DS REAL NEGRO S;BUSO;$ 39.990 ;1;$ 39.990 ;1;6,00E+12;DIESEL;1;1;;Texto de muestra para describir el producto;;DIESEL;Disponible;;;;new
+106;1;CAMISETA KONFLICT 0326 NEGRO M;CAMISETAS;$ 44.990 ;1;$ 44.990 ;1;6,00E+12;KONFLICT;1;1;;Texto de muestra para describir el producto;;KONFLICT;Disponible;;;;new
+107;1;CAMISETA MARINE 1112 ROSADO S;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;LA MARTINA;1;1;;Texto de muestra para describir el producto;;LA MARTINA;Disponible;;;;new
+108;1;CAMISETA LCS 1113 AZUL CLARO L;CAMISETAS;$ 59.990 ;1;$ 59.990 ;1;6,00E+12;LE COQ;1;1;;Texto de muestra para describir el producto;;LE COQ;Disponible;;;;new
+109;1;CAMISETA U- ARMOUR SPORT FIT  BLANCO XXL;CAMISETAS;$ 34.990 ;1;$ 34.990 ;1;6,00E+12;UNDER ARMOUR;1;1;;Texto de muestra para describir el producto;;UNDER ARMOUR;Disponible;;;;new
+110;1;CAMISETA AD BANDA NEGRA S;CAMISETAS;$ 51.990 ;1;$ 51.990 ;1;6,00E+12;ADIDAS;1;1;;Texto de muestra para describir el producto;;ADIDAS;Disponible;;;;new
+111;1;CAMISETA VC 16 VERDE M;CAMISETAS;$ 34.990 ;1;$ 34.990 ;1;6,00E+12;VOLCOM;1;1;;Texto de muestra para describir el producto;;VOLCOM;Disponible;;;;new
+112;1;CAMISETA BULZEYE CALAVERA-PIEDRAS;CAMISETAS;$ 19.990 ;1;$ 19.990 ;1;6,82E+12;BULZEYE;1;1;;Texto de muestra para describir el producto;;BULZEYE;Disponible;;;;new
+113;1;CAMISETA GIRBAUD ESTAM.;CAMISETAS;$ 37.990 ;1;$ 37.990 ;1;6,98E+12;GIRBAUD;1;1;;Texto de muestra para describir el producto;;GIRBAUD;Disponible;;;;new
+114;1;BRAZERA OAKLEY 1712 AZUL;ACCESORIOS;$ 24.990 ;1;$ 24.990 ;1;7,05E+12;OAKLEY;1;1;;Texto de muestra para describir el producto;;OAKLEY;Disponible;;;;new
+115;1;BOXER TO TRICOLOR TALLA XL;BOXER;$ 19.990 ;1;$ 19.990 ;1;7,10E+12;TOMMY HILFIGER;1;1;;Texto de muestra para describir el producto;;TOMMY HILFIGER;Disponible;;;;new
+116;1;BOXER EA CLASICO TALLA L-BLANCO;BOXER;$ 19.990 ;1;$ 19.990 ;1;7,10E+12;EMPORIO ARMANI;1;1;;Texto de muestra para describir el producto;;EMPORIO ARMANI;Disponible;;;;new
+117;1;BOXER EA BLANCO RAYA NEGRA S;BOXER;$ 21.990 ;1;$ 21.990 ;1;7,10E+12;EMPORIO ARMANI;1;1;;Texto de muestra para describir el producto;;EMPORIO ARMANI;Disponible;;;;new
+118;1;BOXER CK RAYAS NEGRO-GRIS S;BOXER;$ 21.990 ;1;$ 21.990 ;1;7,10E+12;CALVIN KLEIN;1;1;;Texto de muestra para describir el producto;;CALVIN KLEIN;Disponible;;;;new
+119;1;BOXER CK BANDA VARIADA BLANCO TALLA S;BOXER;$ 19.990 ;1;$ 19.990 ;1;7,10E+12;CALVIN KLEIN;1;1;;Texto de muestra para describir el producto;;CALVIN KLEIN;Disponible;;;;new
+120;1;BOXER TM RAYAS BLANCO VERDE M;BOXER;$ 21.990 ;1;$ 21.990 ;1;7,10E+12;TOMMY HILFIGER;1;1;;Texto de muestra para describir el producto;;TOMMY HILFIGER;Disponible;;;;new
+121;1;BOXER KLEY RAYAS FONDO NEGRO AZULES XL;BOXER;$ 21.990 ;1;$ 21.990 ;1;7,10E+12;OAKLEY;1;1;;Texto de muestra para describir el producto;;OAKLEY;Disponible;;;;new
+122;1;BOXER VRS CLASICO NEGRO TALLA M;BOXER;$ 19.990 ;1;$ 19.990 ;1;7,10E+12;VERSACE;1;1;;Texto de muestra para describir el producto;;VERSACE;Disponible;;;;new
+123;1;BOXER COCTEL VARIOS;BOXER;$ 16.990 ;1;$ 16.990 ;1;7,10E+12;COCTEL;1;1;;Texto de muestra para describir el producto;;COCTEL;Disponible;;;;new
+124;1;BOXER UNICO NEGRO RAYAS COLORES TALLA S;BOXER;$ 17.990 ;1;$ 17.990 ;1;7,10E+12;UNICO;1;1;;Texto de muestra para describir el producto;;UNICO;Disponible;;;;new
+125;1;BOXER D G;BOXER;$ 17.990 ;1;$ 17.990 ;1;7,32E+12;DOLCE GABANNA;1;1;;Texto de muestra para describir el producto;;DOLCE GABANNA;Disponible;;;;new
+126;1;CARRIEL PRADA REF: 377;MALETIN;$ 24.990 ;1;$ 24.990 ;1;7,38E+12;PRADA;1;1;;Texto de muestra para describir el producto;;PRADA;Disponible;;;;new
+127;1;BILLETERA KLEY REF OH-23;BILLETERAS;$ 29.990 ;1;$ 29.990 ;1;7,39E+12;OAKLEY;1;1;;Texto de muestra para describir el producto;;OAKLEY;Disponible;;;;new
+128;1;BILLETERA FOX UA;BILLETERAS;$ 17.990 ;1;$ 17.990 ;1;7,39E+12;FOX;1;1;;Texto de muestra para describir el producto;;FOX;Disponible;;;;new
+129;1;BILLETERA QS UA;BILLETERAS;$ 17.990 ;1;$ 17.990 ;1;7,39E+12;QUICKSILVER;1;1;;Texto de muestra para describir el producto;;QUICKSILVER;Disponible;;;;new
+130;1;BILLETERA BILL REF B823;BILLETERAS;$ 29.990 ;1;$ 29.990 ;1;7,39E+12;BILLABONG;1;1;;Texto de muestra para describir el producto;;BILLABONG;Disponible;;;;new
+131;1;BILLETERA DS ESTILOS 2012;BILLETERAS;$ 54.990 ;1;$ 54.990 ;1;7,39E+12;DIESEL;1;1;;Texto de muestra para describir el producto;;DIESEL;Disponible;;;;new
+132;1;BILLETERA KLEY OH5001-38;BILLETERAS;$ 29.990 ;1;$ 29.990 ;1;7,39E+12;OAKLEY;1;1;;Texto de muestra para describir el producto;;OAKLEY;Disponible;;;;new
+133;1;BILLETERA SLIK BI-EDDY VERDE;BILLETERAS;$ 25.900 ;1;$ 25.900 ;1;7,39E+12;SLIK;1;1;;Texto de muestra para describir el producto;;SLIK;Disponible;;;;new
+134;1;BILLETERA LV SENCILLA ROJA;BILLETERAS;$ 21.990 ;1;$ 21.990 ;1;7,39E+12;LEVIS;1;1;;Texto de muestra para describir el producto;;LEVIS;Disponible;;;;new
+135;1;PIERNERA FX REF: 680605 VERDE;ACCESORIOS;$ 29.990 ;1;$ 29.990 ;1;7,42E+12;FOX;1;1;;Texto de muestra para describir el producto;;FOX;Disponible;;;;new
+136;1;PIERNERA VIROX 9030 NEGRA;ACCESORIOS;$ 49.990 ;1;$ 49.990 ;1;7,42E+12;VIROX;1;1;;Texto de muestra para describir el producto;;VIROX;Disponible;;;;new
+137;1;BOLSO LC VARIOS REF: MAFF 1030;BOLSOS;$ 88.363 ;1;$ 88.363 ;1;7,43E+12;LACOSTE;1;1;;Texto de muestra para describir el producto;;LACOSTE;Disponible;;;;new
+138;1;MORRAL FX REF: 001 NEGRO;MORRALES;$ 109.990 ;1;$ 109.990 ;1;7,48E+12;FOX;1;1;;Texto de muestra para describir el producto;;FOX;Disponible;;;;new
+139;1;MORRAL BILL REF: 6729 RAYADO NEGRO;MORRALES;$ 69.990 ;1;$ 69.990 ;1;7,48E+12;BILLABONG;1;1;;Texto de muestra para describir el producto;;BILLABONG;Disponible;;;;new
+140;1;MORRAL TAPOUT TP002 AZUL;MORRALES;$ 59.990 ;1;$ 59.990 ;1;7,48E+12;TAPOUT;1;1;;Texto de muestra para describir el producto;;TAPOUT;Disponible;;;;new
+141;1;MORRAL DC 7389 NEGRO;MORRALES;$ 109.990 ;1;$ 109.990 ;1;7,48E+12;DC;1;1;;Texto de muestra para describir el producto;;DC;Disponible;;;;new
+142;1;MORRAL VOLCOM 7587 CAFEE;MORRALES;$ 109.990 ;1;$ 109.990 ;1;7,48E+12;VOLCOM;1;1;;Texto de muestra para describir el producto;;VOLCOM;Disponible;;;;new
+143;1;BOLSO PL DIAGONAL REF: 002;BOLSOS;$ 79.990 ;1;$ 79.990 ;1;7,61E+12;POLO RALPH LAUREN;1;1;;Texto de muestra para describir el producto;;POLO RALPH LAUREN;Disponible;;;;new
+144;1;CARRIEL KLEY REF:907-1;MALETIN;$ 54.990 ;1;$ 54.990 ;1;7,61E+12;OAKLEY;1;1;;Texto de muestra para describir el producto;;OAKLEY;Disponible;;;;new
+145;1;CARRIEL VICTORINOX 8201;MALETIN;$ 79.990 ;1;$ 79.990 ;1;7,61E+12;VICTORINOX;1;1;;Texto de muestra para describir el producto;;VICTORINOX;Disponible;;;;new
+146;1;CARRIEL CAT REF: 82122 AMARILLO;MALETIN;$ 64.990 ;1;$ 64.990 ;1;7,61E+12;CAT;1;1;;Texto de muestra para describir el producto;;CAT;Disponible;;;;new
+147;1;CARRIEL VOLUNTEER REF: 1191-06 NEGRO;MALETIN;$ 59.990 ;1;$ 59.990 ;1;7,61E+12;VOLUNTEER;1;1;;Texto de muestra para describir el producto;;VOLUNTEER;Disponible;;;;new
+148;1;CARRIEL VICTORINOX REF : 1081;MALETIN;$ 54.990 ;1;$ 54.990 ;1;7,61E+12;VICTORINOX;1;1;;Texto de muestra para describir el producto;;VICTORINOX;Disponible;;;;new
+149;1;CARRIEL FAMOUS 020 GRIS;MALETIN;$ 24.990 ;1;$ 24.990 ;1;7,61E+12;FAMOUS;1;1;;Texto de muestra para describir el producto;;FAMOUS;Disponible;;;;new
+150;1;CARRIEL TUMI 6007 NEGRO;MALETIN;$ 99.990 ;1;$ 99.990 ;1;7,61E+12;TUMI;1;1;;Texto de muestra para describir el producto;;TUMI;Disponible;;;;new
+151;1;CARRIEL VIROX 9022 GRIS;MALETIN;$ 41.990 ;1;$ 41.990 ;1;7,61E+12;VIROX;1;1;;Texto de muestra para describir el producto;;VIROX;Disponible;;;;new
+152;1;CARRIEL LV 93224 NEGRO;MALETIN;$ 89.990 ;1;$ 89.990 ;1;7,61E+12;LEVIS;1;1;;Texto de muestra para describir el producto;;LEVIS;Disponible;;;;new
+153;1;CARRIEL MB 1660 NEGRO;MALETIN;$ 89.990 ;1;$ 89.990 ;1;7,61E+12;MONT BLANC;1;1;;Texto de muestra para describir el producto;;MONT BLANC;Disponible;;;;new
+154;1;CARRIEL EA 5809 NEGRO;MALETIN;$ 64.990 ;1;$ 64.990 ;1;7,61E+12;EMPORIO ARMANI;1;1;;Texto de muestra para describir el producto;;EMPORIO ARMANI;Disponible;;;;new
+155;1;CARRIEL DEPORTIVO NK 8813 GRIS;MALETIN;$ 27.990 ;1;$ 27.990 ;1;7,61E+12;NIKE;1;1;;Texto de muestra para describir el producto;;NIKE;Disponible;;;;new
+156;1;CARRIEL DEPORTIVO AD 8611 NEGRO;MALETIN;$ 27.990 ;1;$ 27.990 ;1;7,61E+12;ADIDAS;1;1;;Texto de muestra para describir el producto;;ADIDAS;Disponible;;;;new
+157;1;CARRIEL U-ARMOUR 005 AZUL;MALETIN;$ 54.990 ;1;$ 54.990 ;1;7,61E+12;UNDER ARMOUR;1;1;;Texto de muestra para describir el producto;;UNDER ARMOUR;Disponible;;;;new
+158;1;CARRIEL AE REF:253;MALETIN;$ 79.990 ;1;$ 79.990 ;1;7,61E+12;AMERICAN EAGLE;1;1;;Texto de muestra para describir el producto;;AMERICAN EAGLE;Disponible;;;;new
+159;1;RINONERA PRAD REF: 306;RINONERAS;$ 39.990 ;1;$ 39.990 ;1;7,66E+12;PRADA;1;1;;Texto de muestra para describir el producto;;PRADA;Disponible;;;;new
+160;1;CARRIEL PRAD REF: 6027;MALETIN;$ 31.990 ;1;$ 31.990 ;1;7,75E+12;PRADA;1;1;;Texto de muestra para describir el producto;;PRADA;Disponible;;;;new
+161;1;RELOJ VIROX DIGITAL PU BISEL R01YSD118;RELOJES;$ 44.990 ;1;$ 44.990 ;1;7,77E+12;VIROX;1;1;;Texto de muestra para describir el producto;;VIROX;Disponible;;;;new
+162;1;CHALECO AD 09204 NEGRO M;CHALECOS;$ 86.990 ;1;$ 86.990 ;1;7,80E+12;ADIDAS;1;1;;Texto de muestra para describir el producto;;ADIDAS;Disponible;;;;new
+163;1;BOLSO LC REF: 6231;BOLSOS;$ 49.990 ;1;$ 49.990 ;1;7,82E+12;LACOSTE;1;1;;Texto de muestra para describir el producto;;LACOSTE;Disponible;;;;new
+164;1;CHAQUETA NK 028;CHAQUETAS;$ 89.990 ;1;$ 89.990 ;1;7,82E+12;NIKE;1;1;;Texto de muestra para describir el producto;;NIKE;Disponible;;;;new
+165;1;CHAQUETA EA 035 NEGRA TALLA XXL;CHAQUETAS;$ 64.990 ;1;$ 64.990 ;1;7,82E+12;EMPORIO ARMANI;1;1;;Texto de muestra para describir el producto;;EMPORIO ARMANI;Disponible;;;;new
+166;1;CHAQUETA AD REF T103 GRIS TALLA XXL;CHAQUETAS;$ 89.990 ;1;$ 89.990 ;1;7,82E+12;ADIDAS;1;1;;Texto de muestra para describir el producto;;ADIDAS;Disponible;;;;new
+167;1;CHAQUETA CK QF-5018 NEGRA M;CHAQUETAS;$ 89.990 ;1;$ 89.990 ;1;7,82E+12;CALVIN KLEIN;1;1;;Texto de muestra para describir el producto;;CALVIN KLEIN;Disponible;;;;new
+168;1;CHAQUETA G-STAR 2018 NEGRO TALLA L;CHAQUETAS;$ 114.990 ;1;$ 114.990 ;1;7,82E+12;G-STAR;1;1;;Texto de muestra para describir el producto;;G-STAR;Disponible;;;;new
+169;1;CHAQUETA WOLAIER 1257 NEGRA L;CHAQUETAS;$ 149.990 ;1;$ 149.990 ;1;7,82E+12;WOLAIER;1;1;;Texto de muestra para describir el producto;;WOLAIER;Disponible;;;;new
+170;1;BUSO KP SUDAFRICA 031;BUSO;$ 39.990 ;1;$ 39.990 ;1;7,83E+12;KAPPA;1;1;;Texto de muestra para describir el producto;;KAPPA;Disponible;;;;new
+171;1;CHAQUETA DUHAN YAMAHA;CHAQUETAS;$ 299.990 ;1;$ 299.990 ;1;7,84E+12;YAMAHA;1;1;;Texto de muestra para describir el producto;;YAMAHA;Disponible;;;;new
+172;1;CARRIEL MB REF:98801-2;MALETIN;$ 95.000 ;1;$ 95.000 ;1;7,86E+12;MONT BLANC;1;1;;Texto de muestra para describir el producto;;MONT BLANC;Disponible;;;;new
+173;1;RINONERA NK REF: 201;RINONERAS;$ 26.990 ;1;$ 26.990 ;1;7,87E+12;NIKE;1;1;;Texto de muestra para describir el producto;;NIKE;Disponible;;;;new
+174;1;RINONERA VIROX REF: 8262 NEGRO;RINONERAS;$ 29.990 ;1;$ 29.990 ;1;7,87E+12;VIROX;1;1;;Texto de muestra para describir el producto;;VIROX;Disponible;;;;new
+175;1;RINONERA CAT REF: 87506 GRIS;RINONERAS;$ 64.990 ;1;$ 64.990 ;1;7,87E+12;CAT;1;1;;Texto de muestra para describir el producto;;CAT;Disponible;;;;new
+176;1;RINONERA SWISS-A REF: 2458;RINONERAS;$ 54.990 ;1;$ 54.990 ;1;7,87E+12;SWISSARMY;1;1;;Texto de muestra para describir el producto;;SWISSARMY;Disponible;;;;new
+177;1;RINONERA KLEY REF 838;RINONERAS;$ 44.990 ;1;$ 44.990 ;1;7,87E+12;OAKLEY;1;1;;Texto de muestra para describir el producto;;OAKLEY;Disponible;;;;new
+178;1;RINONERA U-ARMOUR 001 NEGRO;RINONERAS;$ 47.990 ;1;$ 47.990 ;1;7,87E+12;UNDER ARMOUR;1;1;;Texto de muestra para describir el producto;;UNDER ARMOUR;Disponible;;;;new
+179;1;RINONERA VIROX 16478 VERDE;RINONERAS;$ 37.990 ;1;$ 37.990 ;1;7,87E+12;VIROX;1;1;;Texto de muestra para describir el producto;;VIROX;Disponible;;;;new
+180;1;RINONERA AD REF:207;RINONERAS;$ 24.990 ;1;$ 24.990 ;1;7,87E+12;ADIDAS;1;1;;Texto de muestra para describir el producto;;ADIDAS;Disponible;;;;new
+181;1;MANOS LIBRES CAT REF: 01;MALETIN;$ 55.000 ;1;$ 55.000 ;1;7,88E+12;CAT;1;1;;Texto de muestra para describir el producto;;CAT;Disponible;;;;new
+182;1;BUSO EA J-01NG NEGRO TALLA M;BUSO;$ 61.990 ;1;$ 61.990 ;1;7,91E+12;EMPORIO ARMANI;1;1;;Texto de muestra para describir el producto;;EMPORIO ARMANI;Disponible;;;;new
+183;1;BUSO LAMBORGHINI L601 NEGRO TALLA M;BUSO;$ 89.990 ;1;$ 89.990 ;1;7,91E+12;LAMBORGHINI;1;1;;Texto de muestra para describir el producto;;LAMBORGHINI;Disponible;;;;new
+184;1;BUSO LAMBORGHINI L601 NEGRO TALLA XL;BUSO;$ 89.990 ;1;$ 89.990 ;1;7,91E+12;LAMBORGHINI;1;1;;Texto de muestra para describir el producto;;LAMBORGHINI;Disponible;;;;new
+185;1;BUSO A F REF 6147 AMARILLO TALLA L;BUSO;$ 84.990 ;1;$ 84.990 ;1;7,91E+12;ABERCROMBIE;1;1;;Texto de muestra para describir el producto;;ABERCROMBIE;Disponible;;;;new
+186;1;BUSO PL FR002 AZUL OSC TALLA XXL;BUSO;$ 89.990 ;1;$ 89.990 ;1;7,91E+12;POLO RALPH LAUREN;1;1;;Texto de muestra para describir el producto;;POLO RALPH LAUREN;Disponible;;;;new
+187;1;BUSO KLEY REF: JDP-1551 GRIS TALLA L;BUSO;$ 68.000 ;1;$ 68.000 ;1;7,91E+12;OAKLEY;1;1;;Texto de muestra para describir el producto;;OAKLEY;Disponible;;;;new
+188;1;BUSO G-STAR 028 BLANCO TALLA  XXL;BUSO;$ 89.990 ;1;$ 89.990 ;1;7,91E+12;G-STAR;1;1;;Texto de muestra para describir el producto;;G-STAR;Disponible;;;;new
+189;1;BUSO FX CH001 VERDE XL;BUSO;$ 79.990 ;1;$ 79.990 ;1;7,91E+12;FOX;1;1;;Texto de muestra para describir el producto;;FOX;Disponible;;;;new
+190;1;BUSO REAL 1010 S;BUSO;$ 144.990 ;1;$ 144.990 ;1;7,91E+12;REAL;1;1;;Texto de muestra para describir el producto;;REAL;Disponible;;;;new
+191;1;CARRIEL SWISS-A REF:221;MALETIN;$ 51.990 ;1;$ 51.990 ;1;7,93E+12;SWISSARMY;1;1;;Texto de muestra para describir el producto;;SWISSARMY;Disponible;;;;new
+192;1;BOLSO SWISS-A REF: 204;BOLSOS;$ 79.990 ;1;$ 79.990 ;1;7,93E+12;SWISSARMY;1;1;;Texto de muestra para describir el producto;;SWISSARMY;Disponible;;;;new
+193;1;BOLSO MB REF: 096 CAFEE;BOLSOS;$ 39.990 ;1;$ 39.990 ;1;7,93E+12;MONT BLANC;1;1;;Texto de muestra para describir el producto;;MONT BLANC;Disponible;;;;new
+194;1;BOLSO FX ESTAM. REF: 642;BOLSOS;$ 44.990 ;1;$ 44.990 ;1;7,93E+12;FOX;1;1;;Texto de muestra para describir el producto;;FOX;Disponible;;;;new
+195;1;BOLSO DEPORTIVO NK REF 8690 VERDE;BOLSOS;$ 26.990 ;1;$ 26.990 ;1;7,93E+12;NIKE;1;1;;Texto de muestra para describir el producto;;NIKE;Disponible;;;;new
+196;1;BOLSO DEPORTIVO AD REF 8335 AZUL OSC;BOLSOS;$ 26.990 ;1;$ 26.990 ;1;7,93E+12;ADIDAS;1;1;;Texto de muestra para describir el producto;;ADIDAS;Disponible;;;;new
+197;1;BOLSO CH LCH-01;BOLSOS;$ 49.990 ;1;$ 49.990 ;1;7,93E+12;CAROLINA HERRERA;1;1;;Texto de muestra para describir el producto;;CAROLINA HERRERA;Disponible;;;;new
+198;1;BOLSO CH LG-104;BOLSOS;$ 69.990 ;1;$ 69.990 ;1;7,93E+12;CAROLINA HERRERA;1;1;;Texto de muestra para describir el producto;;CAROLINA HERRERA;Disponible;;;;new
+199;1;BOLSO CH L3837;BOLSOS;$ 69.990 ;1;$ 69.990 ;1;7,93E+12;CAROLINA HERRERA;1;1;;Texto de muestra para describir el producto;;CAROLINA HERRERA;Disponible;;;;new
+200;1;BOLSO HB1933;BOLSOS;$ 65.990 ;1;$ 65.990 ;1;7,93E+12;HUGO BOSS;1;1;;Texto de muestra para describir el producto;;HUGO BOSS;Disponible;;;;new
+201;1;BOLSO LS-149AB;BOLSOS;$ 54.990 ;1;$ 54.990 ;1;7,93E+12;LACOSTE;1;1;;Texto de muestra para describir el producto;;LACOSTE;Disponible;;;;new
+202;1;BOLSO LUIVICTON CH LS-175AC;BOLSOS;$ 174.990 ;1;$ 174.990 ;1;7,93E+12;LOUIS VUITON;1;1;;Texto de muestra para describir el producto;;LOUIS VUITON;Disponible;;;;new
+203;1;CHAQUETA PM REF:1088;CHAQUETAS;$ 89.990 ;1;$ 89.990 ;1;7,93E+12;PUMA;1;1;;Texto de muestra para describir el producto;;PUMA;Disponible;;;;new
+204;1;BUSO HL REF: 6140;BUSO;$ 84.990 ;1;$ 84.990 ;1;7,93E+12;HOLLISTER;1;1;;Texto de muestra para describir el producto;;HOLLISTER;Disponible;;;;new
+205;1;CARRIEL FX ROCKSTAR REF: LD51 NEGRO;MALETIN;$ 54.990 ;1;$ 54.990 ;1;7,61E+15;FOX;1;1;;Texto de muestra para describir el producto;;FOX;Disponible;;;;new
+206;1;RINONERA KLEY REF: RB60K VERDE;RINONERAS;$ 54.990 ;1;$ 54.990 ;1;7,87E+15;OAKLEY;1;1;;Texto de muestra para describir el producto;;OAKLEY;Disponible;;;;new
+207;1;BOXER D G MALLA TALLA XL-BLANCO;BOXER;$ 17.990 ;1;$ 17.990 ;1;7.10E+12;DOLCE GABANNA;1;1;;Texto de muestra para describir el producto;;DOLCE GABANNA;Disponible;;;;new
