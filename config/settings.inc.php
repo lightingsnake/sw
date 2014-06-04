@@ -1,8 +1,11 @@
 <?php
-define('_DB_SERVER_', '96.8.123.189');
+//define('_DB_SERVER_', '96.8.123.189');
+define('_DB_SERVER_', 'localhost');
 define('_DB_NAME_', 'dbsw');
-define('_DB_USER_', 'swm_admin');
-define('_DB_PASSWD_', 'Q4c7t208131982');
+define('_DB_USER_', 'root');
+//define('_DB_USER_', 'swm_admin');
+//define('_DB_PASSWD_', 'Q4c7t208131982');
+define('_DB_PASSWD_', '');
 define('_DB_PREFIX_', 'ps_');
 define('_MYSQL_ENGINE_', 'InnoDB');
 define('_PS_CACHING_SYSTEM_', 'CacheMemcache');

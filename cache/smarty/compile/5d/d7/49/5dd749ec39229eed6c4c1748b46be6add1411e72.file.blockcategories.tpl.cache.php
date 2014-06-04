@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-05-28 23:22:03
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-03 20:33:46
          compiled from "D:\xampp\htdocs\swm\sw\themes\default-bootstrap\modules\blockcategories\blockcategories.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:191945385107273a523-06286127%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '5dd749ec39229eed6c4c1748b46be6add1411e72' => 
     array (
       0 => 'D:\\xampp\\htdocs\\swm\\sw\\themes\\default-bootstrap\\modules\\blockcategories\\blockcategories.tpl',
-      1 => 1401312110,
+      1 => 1401820413,
       2 => 'file',
     ),
   ),
@@ -24,6 +24,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'currentCategory' => 0,
     'isDhtml' => 0,
     'child' => 0,
+    'categorias' => 0,
+    'categoria' => 0,
   ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
@@ -65,6 +67,26 @@ $_smarty_tpl->tpl_vars['child']->_loop = true;
 		</div>
 	</div>
 </div>
+
+<div class="col-md-9">
+	<?php  $_smarty_tpl->tpl_vars['categoria'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['categoria']->_loop = false;
+ $_from = $_smarty_tpl->tpl_vars['categorias']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
+foreach ($_from as $_smarty_tpl->tpl_vars['categoria']->key => $_smarty_tpl->tpl_vars['categoria']->value){
+$_smarty_tpl->tpl_vars['categoria']->_loop = true;
+?>
+		<div class="col-md-6 categoriesHomeImages">
+			<a href="http://swm.com.co/sw/<?php echo $_smarty_tpl->tpl_vars['categoria']->value['id_category'];?>
+-<?php echo $_smarty_tpl->tpl_vars['categoria']->value['name'];?>
+">
+				<img src="http://swm.com.co/sw/img/c/<?php echo $_smarty_tpl->tpl_vars['categoria']->value['id_category'];?>
+.jpg">
+				<span><?php echo $_smarty_tpl->tpl_vars['categoria']->value['name'];?>
+</span>
+			</a>
+		</div>
+	<?php } ?>
+</div>
+
 
 <!-- /Block categories module -->
 <?php }?>

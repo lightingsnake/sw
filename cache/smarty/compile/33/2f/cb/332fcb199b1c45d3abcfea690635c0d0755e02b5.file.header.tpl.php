@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-05-29 21:24:26
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-04 00:40:15
          compiled from "D:\xampp\htdocs\swm\sw\themes\default-bootstrap\header.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:26282538510ba73ac89-52789569%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '332fcb199b1c45d3abcfea690635c0d0755e02b5' => 
     array (
       0 => 'D:\\xampp\\htdocs\\swm\\sw\\themes\\default-bootstrap\\header.tpl',
-      1 => 1401391458,
+      1 => 1401835205,
       2 => 'file',
     ),
   ),
@@ -120,6 +120,9 @@ $_smarty_tpl->tpl_vars['media']->_loop = true;
 						$('#search_block_top').appendTo('#mainMenu .container')
 						$('.shopping_cart').appendTo('#mainMenu .container')
 						$('#mainMenu .container ul').appendTo('#mainMenu .container')
+					} else {
+						$('.shopping_cart').appendTo('#topContainer')
+						$('#search_block_top').appendTo('#topContainer')
 					}
 				})
 
@@ -127,8 +130,11 @@ $_smarty_tpl->tpl_vars['media']->_loop = true;
 					$('#mainMenu .container ul').slideToggle('slow')
 				})
 
-				//Ejecutamos el window resize al cargar la página
-				$(window).resize()
+				if($(window).width() <= 980){
+					$('#search_block_top').appendTo('#mainMenu .container')
+					$('.shopping_cart').appendTo('#mainMenu .container')
+					$('#mainMenu .container ul').appendTo('#mainMenu .container')
+				}
 			})
 		</script>
 	</head>
@@ -208,9 +214,8 @@ $_smarty_tpl->tpl_vars['media']->_loop = true;
 					</div>
 					<div class="row">
 						<?php if (isset($_smarty_tpl->tpl_vars['left_column_size']->value)&&!empty($_smarty_tpl->tpl_vars['left_column_size']->value)){?>
-						<div id="left_column" class="column col-xs-12 col-sm-<?php echo intval($_smarty_tpl->tpl_vars['left_column_size']->value);?>
-"><?php echo $_smarty_tpl->tpl_vars['HOOK_LEFT_COLUMN']->value;?>
-</div>
+						<?php echo $_smarty_tpl->tpl_vars['HOOK_LEFT_COLUMN']->value;?>
+
 						<?php }?>
 						<?php echo $_smarty_tpl->tpl_vars['HOOK_CATEGORY']->value;?>
 

@@ -248,6 +248,16 @@ class BlockCategories extends Module
 			else
 				$this->smarty->assign('branche_tpl_path', _PS_MODULE_DIR_.'blockcategories/category-tree-branch.tpl');
 		}
+
+		
+		$categorias = Db::getInstance()->executeS('
+			SELECT * FROM ps_category 
+			INNER JOIN ps_category_lang 
+			ON ps_category.id_category = ps_category_lang.id_category 
+			WHERE ps_category_lang.id_lang = 1 AND ps_category.id_category != 1 ORDER BY RAND()  LIMIT 6');
+
+		$this->smarty->assign('categorias', $categorias);
+
 		return $this->display(__FILE__, 'blockcategories.tpl', $cacheId);
 	}
 

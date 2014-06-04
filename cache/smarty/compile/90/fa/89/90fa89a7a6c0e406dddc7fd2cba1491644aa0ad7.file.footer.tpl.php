@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-05-29 21:52:36
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-04 03:01:35
          compiled from "D:\xampp\htdocs\swm\sw\themes\default-bootstrap\footer.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:23927538510bb1d8053-13194947%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '90fa89a7a6c0e406dddc7fd2cba1491644aa0ad7' => 
     array (
       0 => 'D:\\xampp\\htdocs\\swm\\sw\\themes\\default-bootstrap\\footer.tpl',
-      1 => 1401393129,
+      1 => 1401841768,
       2 => 'file',
     ),
   ),
@@ -22,6 +22,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'content_only' => 0,
     'right_column_size' => 0,
     'HOOK_RIGHT_COLUMN' => 0,
+    'HOOK_MAKE' => 0,
     'HOOK_FOOTER' => 0,
   ),
   'has_nocache_code' => false,
@@ -37,6 +38,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					</div><!-- .row -->
 				</div><!-- #columns -->
 			</div><!-- .columns-container -->
+			
+			<?php echo $_smarty_tpl->tpl_vars['HOOK_MAKE']->value;?>
+
+
 			<!-- Footer -->
 			<div class="footer-container">
 				<footer id="footer">

@@ -47,5 +47,17 @@
 	</div>
 </div>
 
+<div class="col-md-9">
+	{foreach from=$categorias item=categoria}
+		<div class="col-md-6 categoriesHomeImages">
+			<a href="http://swm.com.co/sw/{$categoria.id_category}-{$categoria.name}">
+				<img src="http://swm.com.co/sw/img/c/{$categoria.id_category}.jpg">
+				<span>{$categoria.name}</span>
+			</a>
+		</div>
+	{/foreach}
+</div>
+
+
 <!-- /Block categories module -->
 {/if}

@@ -11,14 +11,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'be7a4f16928d971bbfd6ae97c60d603d0c32d2e7' => 
     array (
       0 => 'D:\\xampp\\htdocs\\swm\\sw\\themes\\default-bootstrap\\product-list.tpl',
-      1 => 1401380244,
+      1 => 1401399849,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '26589538510a0b0d681-31401684',
   'cache_lifetime' => 31536000,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53875dd0c8d617_30846964',
+  'unifunc' => 'content_5387aa42598848_27534038',
   'variables' => 
   array (
     'products' => 0,
@@ -26,14 +26,16 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53875dd0c8d617_30846964')) {function content_53875dd0c8d617_30846964($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5387aa42598848_27534038')) {function content_5387aa42598848_27534038($_smarty_tpl) {?>
 	<h3 id="productFeaturedTitle">PRODUCTOS DESCADOS</h3>
 <ul id="productFeatured">
 <div id="carousel-example-generic" class="products-carousel" data-ride="carousel">
 	<div class="carousel-inner">
 			<div class="item">
 				<li>
-				<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="CAMISA A F OXFORD MANGA LARGA" title="CAMISA A F OXFORD MANGA LARGA"  width="250" height="250" itemprop="image" />
+				<a href="http://swm.com.co/sw/camisas/3-camisa-a-f-oxford-manga-larga.html" title="CAMISA A F OXFORD MANGA LARGA" itemprop="url" >
+					<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="CAMISA A F OXFORD MANGA LARGA" title="CAMISA A F OXFORD MANGA LARGA"  width="250" height="250" itemprop="image" />
+				</a>
 				<div class="name">
 					<h3>
 						<a href="http://swm.com.co/sw/camisas/3-camisa-a-f-oxford-manga-larga.html" title="CAMISA A F OXFORD MANGA LARGA" itemprop="url" >
@@ -53,7 +55,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			</li>
 	<!--0-->
 					<li>
-				<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="CAMISA LC M/C RAYAS-CUADROS" title="CAMISA LC M/C RAYAS-CUADROS"  width="250" height="250" itemprop="image" />
+				<a href="http://swm.com.co/sw/camisas/50-camisa-lc-m-c-rayas-cuadros.html" title="CAMISA LC M/C RAYAS-CUADROS" itemprop="url" >
+					<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="CAMISA LC M/C RAYAS-CUADROS" title="CAMISA LC M/C RAYAS-CUADROS"  width="250" height="250" itemprop="image" />
+				</a>
 				<div class="name">
 					<h3>
 						<a href="http://swm.com.co/sw/camisas/50-camisa-lc-m-c-rayas-cuadros.html" title="CAMISA LC M/C RAYAS-CUADROS" itemprop="url" >
@@ -73,7 +77,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			</li>
 	<!--1-->
 					<li>
-				<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="PANTALONETA PM 8661 NEGRA TALLA XXL" title="PANTALONETA PM 8661 NEGRA TALLA XXL"  width="250" height="250" itemprop="image" />
+				<a href="http://swm.com.co/sw/bermudas/40-pantaloneta-pm-8661-negra-talla-xxl.html" title="PANTALONETA PM 8661 NEGRA TALLA XXL" itemprop="url" >
+					<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="PANTALONETA PM 8661 NEGRA TALLA XXL" title="PANTALONETA PM 8661 NEGRA TALLA XXL"  width="250" height="250" itemprop="image" />
+				</a>
 				<div class="name">
 					<h3>
 						<a href="http://swm.com.co/sw/bermudas/40-pantaloneta-pm-8661-negra-talla-xxl.html" title="PANTALONETA PM 8661 NEGRA TALLA XXL" itemprop="url" >
@@ -93,7 +99,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			</li>
 	<!--2-->
 					<li>
-				<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="RELOJ VIROX DIGITAL PU BISEL R01YSD118" title="RELOJ VIROX DIGITAL PU BISEL R01YSD118"  width="250" height="250" itemprop="image" />
+				<a href="http://swm.com.co/sw/relojes/161-reloj-virox-digital-pu-bisel-r01ysd118.html" title="RELOJ VIROX DIGITAL PU BISEL R01YSD118" itemprop="url" >
+					<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="RELOJ VIROX DIGITAL PU BISEL R01YSD118" title="RELOJ VIROX DIGITAL PU BISEL R01YSD118"  width="250" height="250" itemprop="image" />
+				</a>
 				<div class="name">
 					<h3>
 						<a href="http://swm.com.co/sw/relojes/161-reloj-virox-digital-pu-bisel-r01ysd118.html" title="RELOJ VIROX DIGITAL PU BISEL R01YSD118" itemprop="url" >
@@ -113,7 +121,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			</li>
 	<!--3-->
 					<li>
-				<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="RINONERA KLEY REF: RB60K VERDE" title="RINONERA KLEY REF: RB60K VERDE"  width="250" height="250" itemprop="image" />
+				<a href="http://swm.com.co/sw/rinoneras/206-rinonera-kley-ref-rb60k-verde.html" title="RINONERA KLEY REF: RB60K VERDE" itemprop="url" >
+					<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="RINONERA KLEY REF: RB60K VERDE" title="RINONERA KLEY REF: RB60K VERDE"  width="250" height="250" itemprop="image" />
+				</a>
 				<div class="name">
 					<h3>
 						<a href="http://swm.com.co/sw/rinoneras/206-rinonera-kley-ref-rb60k-verde.html" title="RINONERA KLEY REF: RB60K VERDE" itemprop="url" >
@@ -135,7 +145,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			</div>
 						<div class="item">
 				<li>
-				<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="BOXER D G MALLA TALLA XL-BLANCO" title="BOXER D G MALLA TALLA XL-BLANCO"  width="250" height="250" itemprop="image" />
+				<a href="http://swm.com.co/sw/boxer/207-boxer-d-g-malla-talla-xl-blanco.html" title="BOXER D G MALLA TALLA XL-BLANCO" itemprop="url" >
+					<img class="replace-2x img-responsive" src="http://swm.com.co/sw/img/p/es-default-home_default.jpg" alt="BOXER D G MALLA TALLA XL-BLANCO" title="BOXER D G MALLA TALLA XL-BLANCO"  width="250" height="250" itemprop="image" />
+				</a>
 				<div class="name">
 					<h3>
 						<a href="http://swm.com.co/sw/boxer/207-boxer-d-g-malla-talla-xl-blanco.html" title="BOXER D G MALLA TALLA XL-BLANCO" itemprop="url" >

@@ -68,6 +68,9 @@
 						$('#search_block_top').appendTo('#mainMenu .container')
 						$('.shopping_cart').appendTo('#mainMenu .container')
 						$('#mainMenu .container ul').appendTo('#mainMenu .container')
+					} else {
+						$('.shopping_cart').appendTo('#topContainer')
+						$('#search_block_top').appendTo('#topContainer')
 					}
 				})
 
@@ -75,8 +78,11 @@
 					$('#mainMenu .container ul').slideToggle('slow')
 				})
 
-				//Ejecutamos el window resize al cargar la página
-				$(window).resize()
+				if($(window).width() <= 980){
+					$('#search_block_top').appendTo('#mainMenu .container')
+					$('.shopping_cart').appendTo('#mainMenu .container')
+					$('#mainMenu .container ul').appendTo('#mainMenu .container')
+				}
 			})
 		</script>
 	</head>
@@ -140,7 +146,7 @@
 					</div>
 					<div class="row">
 						{if isset($left_column_size) && !empty($left_column_size)}
-						<div id="left_column" class="column col-xs-12 col-sm-{$left_column_size|intval}">{$HOOK_LEFT_COLUMN}</div>
+						{$HOOK_LEFT_COLUMN}
 						{/if}
 						{$HOOK_CATEGORY}
 						<div id="center_column" class="center_column col-xs-12 col-sm-{12 - $left_column_size - $right_column_size}">

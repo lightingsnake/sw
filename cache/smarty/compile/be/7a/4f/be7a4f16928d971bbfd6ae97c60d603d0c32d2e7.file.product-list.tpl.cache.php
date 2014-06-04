@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-05-29 18:18:22
+<?php /* Smarty version Smarty-3.1.14, created on 2014-05-29 23:44:31
          compiled from "D:\xampp\htdocs\swm\sw\themes\default-bootstrap\product-list.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:175435385109da87ea3-88714344%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'be7a4f16928d971bbfd6ae97c60d603d0c32d2e7' => 
     array (
       0 => 'D:\\xampp\\htdocs\\swm\\sw\\themes\\default-bootstrap\\product-list.tpl',
-      1 => 1401380244,
+      1 => 1401399849,
       2 => 'file',
     ),
   ),
@@ -66,7 +66,10 @@ $_smarty_tpl->tpl_vars['product']->_loop = true;
 		<div class="item">
 	<?php }?>
 			<li>
-				<img class="replace-2x img-responsive" src="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getImageLink($_smarty_tpl->tpl_vars['product']->value['link_rewrite'],$_smarty_tpl->tpl_vars['product']->value['id_image'],'home_default'), ENT_QUOTES, 'UTF-8', true);?>
+				<a href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['link'], ENT_QUOTES, 'UTF-8', true);?>
+" title="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['name'], ENT_QUOTES, 'UTF-8', true);?>
+" itemprop="url" >
+					<img class="replace-2x img-responsive" src="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getImageLink($_smarty_tpl->tpl_vars['product']->value['link_rewrite'],$_smarty_tpl->tpl_vars['product']->value['id_image'],'home_default'), ENT_QUOTES, 'UTF-8', true);?>
 " alt="<?php if (!empty($_smarty_tpl->tpl_vars['product']->value['legend'])){?><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['legend'], ENT_QUOTES, 'UTF-8', true);?>
 <?php }else{ ?><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['name'], ENT_QUOTES, 'UTF-8', true);?>
 <?php }?>" title="<?php if (!empty($_smarty_tpl->tpl_vars['product']->value['legend'])){?><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['legend'], ENT_QUOTES, 'UTF-8', true);?>
@@ -74,6 +77,7 @@ $_smarty_tpl->tpl_vars['product']->_loop = true;
 <?php }?>" <?php if (isset($_smarty_tpl->tpl_vars['homeSize']->value)){?> width="<?php echo $_smarty_tpl->tpl_vars['homeSize']->value['width'];?>
 " height="<?php echo $_smarty_tpl->tpl_vars['homeSize']->value['height'];?>
 "<?php }?> itemprop="image" />
+				</a>
 				<div class="name">
 					<h3>
 						<a href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['link'], ENT_QUOTES, 'UTF-8', true);?>
