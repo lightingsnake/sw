@@ -285,8 +285,8 @@ class BlockCategories extends Module
 				if ($maxdepth > 0)
 					$maxdepth += $category->level_depth;
 				$range = 'AND nleft >= '.$category->nleft.' AND nright <= '.$category->nright;
-			}
 
+			}
 			$resultIds = array();
 			$resultParents = array();
 			$result = Db::getInstance(_PS_USE_SQL_SLAVE_)->executeS('

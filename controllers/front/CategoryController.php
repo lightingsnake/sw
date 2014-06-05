@@ -215,6 +215,11 @@ class CategoryControllerCore extends FrontController
 
 		$this->addColorsToProductList($this->cat_products);
 
+		$this->context->smarty->assign(array(
+			'HOOK_MAKE' => Hook::exec('make'),
+			'HOOK_CATEGORY' => Hook::exec('displayCategory')
+		));
+		
 		$this->context->smarty->assign('nb_products', $this->nbProducts);
 	}
 	

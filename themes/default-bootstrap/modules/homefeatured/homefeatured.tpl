@@ -24,5 +24,5 @@
 *}
 {counter name=active_ul assign=active_ul}
 {if isset($products) && $products}
-	{include file="$tpl_dir./product-list.tpl" class='homefeatured' id='homefeatured' active=$active_ul}
+	{include file="$tpl_dir./product-list-featured.tpl" class='homefeatured' id='homefeatured' active=$active_ul}
 {/if}

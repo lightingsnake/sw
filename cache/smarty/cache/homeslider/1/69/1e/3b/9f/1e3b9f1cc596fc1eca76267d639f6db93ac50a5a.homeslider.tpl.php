@@ -10,20 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '17270538510bad93e07-52460971',
-  'variables' => 
-  array (
-    'page_name' => 0,
-    'homeslider_slides' => 0,
-    'slide' => 0,
-    'i' => 0,
-    'link' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_538510bae89fc9_16752693',
+  'unifunc' => 'content_538fb8b96a89a8_16634981',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_538510bae89fc9_16752693')) {function content_538510bae89fc9_16752693($_smarty_tpl) {?>    <!-- Module HomeSlider -->
+<?php if ($_valid && !is_callable('content_538fb8b96a89a8_16634981')) {function content_538fb8b96a89a8_16634981($_smarty_tpl) {?>    <!-- Module HomeSlider -->
             <div id="slider" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-05-29 23:44:31
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-05 05:13:18
          compiled from "D:\xampp\htdocs\swm\sw\themes\default-bootstrap\modules\homefeatured\homefeatured.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:26589538510a0b0d681-31401684%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'c31eda67ff55a887750685e70cb982c639b34a3a' => 
     array (
       0 => 'D:\\xampp\\htdocs\\swm\\sw\\themes\\default-bootstrap\\modules\\homefeatured\\homefeatured.tpl',
-      1 => 1401323180,
+      1 => 1401929396,
       2 => 'file',
     ),
   ),
@@ -30,6 +30,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <?php echo smarty_function_counter(array('name'=>'active_ul','assign'=>'active_ul'),$_smarty_tpl);?>
 
 <?php if (isset($_smarty_tpl->tpl_vars['products']->value)&&$_smarty_tpl->tpl_vars['products']->value){?>
-	<?php echo $_smarty_tpl->getSubTemplate (((string)$_smarty_tpl->tpl_vars['tpl_dir']->value)."./product-list.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 9999, null, array('class'=>'homefeatured','id'=>'homefeatured','active'=>$_smarty_tpl->tpl_vars['active_ul']->value), 0);?>
+	<?php echo $_smarty_tpl->getSubTemplate (((string)$_smarty_tpl->tpl_vars['tpl_dir']->value)."./product-list-featured.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 9999, null, array('class'=>'homefeatured','id'=>'homefeatured','active'=>$_smarty_tpl->tpl_vars['active_ul']->value), 0);?>
 
 <?php }?><?php }} ?>

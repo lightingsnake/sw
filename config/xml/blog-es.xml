@@ -13,11 +13,151 @@
 	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.prestashop.com/blog/es</link>
 	<description>Un blog de Ecommerce sobre cómo gestionar una tienda online.</description>
-	<lastBuildDate>Wed, 28 May 2014 14:54:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Jun 2014 15:47:16 +0000</lastBuildDate>
 	<language>es-ES</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=3.4</generator>
+		<item>
+		<title>Los beneficios de ofrecer tus productos en la moneda de tu cliente</title>
+		<link>http://www.prestashop.com/blog/es/los-beneficios-de-ofrecer-tus-productos-en-la-moneda-de-tu-cliente/</link>
+		<comments>http://www.prestashop.com/blog/es/los-beneficios-de-ofrecer-tus-productos-en-la-moneda-de-tu-cliente/#comments</comments>
+		<pubDate>Wed, 04 Jun 2014 15:47:16 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Asociados PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11553</guid>
+		<description><![CDATA[Cuando te iniciaste en el mundo de los negocios por Internet lo hiciste para ampliar tu base de clientes. Por este motivo, envías pedidos a todo el mundo, incluso a sitios donde nunca antes has estado. Todo esto puede resultar &#8230; <a href="http://www.prestashop.com/blog/es/los-beneficios-de-ofrecer-tus-productos-en-la-moneda-de-tu-cliente/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Cuando te iniciaste en el mundo de los negocios por Internet lo hiciste para ampliar tu base de clientes. Por este motivo, envías pedidos a todo el mundo, incluso a sitios donde nunca antes has estado. Todo esto puede resultar muy excitante, pero pronto comienzas a oír términos como “localización”, “internacionalización” y “multi-divisa”. ¿Conoces todo lo necesario para saber llevar un negocio con una base de clientes internacional? ¿Deberías plantearte localizar y aceptar pagos en la moneda del cliente? ¡Aquí estamos para desmitificar y explicar por qué deberías y cuál es la mejor forma de ofrecer múltiples monedas en tu tienda online! <img class="aligncenter size-full wp-image-11554" src="http://www.prestashop.com/blog/es/files/2014/06/ES-Benefits-of-offering-your-products.jpg" alt="" width="580" height="248" /> <span id="more-11553"></span>La importancia de habilitar múltiples monedas se explica mejor mostrando las debilidades de un proceso de pago con una sola moneda. Habilitar solo una moneda en tu tienda online no sólo limita a tus clientes a la hora de comprar sino que además les limita a la hora de pagar utilizando esa moneda. Esta podría ser la causa mayor de rechazo por parte del comprador al no encontrar su moneda.</p>
+<h4><span style="color: #993300;">Debilidades de los procesos de pago mono-moneda</span></h4>
+<p>Limitando que los clientes sólo puedan comprar en una moneda extranjera complica que finalicen sus compras y conduce al abandono de carritos y pérdida de ventas. Según <a href="http://www.statista.com/statistics/232285/reasons-for-online-shopping-cart-abandonment/" target="_blank">Statista</a>, el 13% de compradores online abandonan una tienda si ven una divisa extranjera. Además, una vez el cliente ha realizado una compra en la moneda extranjera, algunos bancos les imponen una cuota extra por realizar transacciones en el extranjero; por lo que penalizan a tus clientes por comprar en tu tienda.</p>
+<h4><span style="color: #993300;">Ofrece Múltiples Monedas gracias a Authorize.Net</span></h4>
+<p>Aquí es donde <a href="http://addons.prestashop.com/es/pagos-prestashop-modulos/4154-authorizenet-aim.html" target="_blank">Authorize.Net </a>– un procesador de pagos multi-divisa certificado por PrestaShop y un proveedor pionero de servicios de pago en ecommerce – puede ayudarte. Authorize.Net soporta múltiples monedas (USD, GBP, EUROS, AUD, CAD, NZD) y, usándolo en combinación con PrestaShop, podrás incrementar las ventas permitiendo que los clientes compren y paguen en su moneda. Evita repeler clientes por culpa de las comisiones de bancos extranjeros o las fluctuaciones de los cambios de divisa. Aprenda más visitando PrestaShop Addons y descargue el módulo Authorize.Net para comenzar.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-11555" src="http://www.prestashop.com/blog/es/files/2014/06/147-1.png" alt="" width="220" height="127" /></p>
+<p>Además de aceptar pagos en múltiples monedas, los vendedores PrestaShop que usen <a href="http://addons.prestashop.com/es/pagos-prestashop-modulos/4154-authorizenet-aim.html" target="_blank">Authorize.Net</a> también podrán disfrutar de los siguientes beneficios:</p>
+<ol>
+<ul>
+<li>Atención al Cliente Gratuita</li>
+<li>Terminal Virtual Gratuito</li>
+<li>Fácil Instalación y Configuración</li>
+<li>Los Servicios Adicionales Incluyen:
+<ol>
+<ul>
+<li>Facturación Recurrente</li>
+<li>Tokenización de Pagos</li>
+<li>Detección Avanzada de Fraude</li>
+</ul>
+</ol>
+</li>
+<li>Sin Compromiso de Permanencia</li>
+</ul>
+</ol>
+<div>
+<hr align="left" size="2" width="20%" />
+</div>
+<p>¿Todavía no utilizas PrestaShop para vender? ¿A qué esperas? <a href="http://www.prestashop.com/es/download" target="_blank">Descarga </a>ya la mejor solución ecommerce y comienza a vender a clientes en el extranjero con su moneda preferida y ¡observa cómo tu negocio se vuelve una sensación internacional!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/los-beneficios-de-ofrecer-tus-productos-en-la-moneda-de-tu-cliente/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>10 Cosas Que Me Hubiese Gustado Saber Antes de Abrir un Ecommerce</title>
+		<link>http://www.prestashop.com/blog/es/10-cosas-que-me-hubiese-gustado-saber-antes-de-abrir-un-ecommerce/</link>
+		<comments>http://www.prestashop.com/blog/es/10-cosas-que-me-hubiese-gustado-saber-antes-de-abrir-un-ecommerce/#comments</comments>
+		<pubDate>Mon, 02 Jun 2014 15:56:06 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11533</guid>
+		<description><![CDATA[Estás a punto de abrir al público tu tienda online – tienes los productos y la web lista para funcionar – ¿De qué podrías haberte olvidado? Hemos preguntado a varios vendedores online qué ideas y conceptos no entendieron hasta después &#8230; <a href="http://www.prestashop.com/blog/es/10-cosas-que-me-hubiese-gustado-saber-antes-de-abrir-un-ecommerce/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Estás a punto de abrir al público tu tienda online – tienes los productos y la web lista para funcionar – ¿De qué podrías haberte olvidado? Hemos preguntado a varios vendedores online qué ideas y conceptos no entendieron hasta después de abrir su tienda online y hemos recibido algunas respuestas interesantes.</p>
+<p>Se dice que en retrospectiva se trata de un 20 de visión y un 80 de ejecución, aprendamos de las experiencias que comparten algunos de los minoristas online con más éxito en Internet: las 10 cosas que me hubiese gustado saber antes de abrir un ecommerce.</p>
+<p><img class="aligncenter size-full wp-image-11534" src="http://www.prestashop.com/blog/es/files/2014/06/ES10thingsiwishiknew.jpg" alt="" width="576" height="245" /></p>
+<p><span id="more-11533"></span></p>
+<blockquote>
+<h4><strong><span style="color: #428ea5;"> 1. “Los planes de negocio no sólo son para los estudiantes de empresariales.”</span> </strong></h4>
+</blockquote>
+<p>Dispón de un plan de negocio bien meditado. Es un cliché pero es cierto. Resulta fácil pensar que tu negocio online funcionará por sí sólo, pero <strong>un plan de negocio detallado es el ticket hacia el éxito</strong>. Este plan debería cubrir todo lo indispensable para planificar, desarrollar la estrategia y lanzar tu tienda online. Un plan de negocio también te obligará a realizarte preguntas en las que quizás aún no habías pensado. Planifica una tienda online de éxito con estos <a href="http://www.prestashop.com/blog/es/como-crear-una-tienda-online-10-pasos-para-escribir-el-plan-de-negocio/" target="_blank">10 pasos para escribir el plan de negocio de tu ecommerce</a>.</p>
+<blockquote>
+<h4><span style="color: #428ea5;"><strong> 2. “Conoce bien tu negocio, pero conocer mejor a tu competencia.” </strong></span></h4>
+</blockquote>
+<p>Deberías tener un conocimiento profundo de los productos y servicios similares que existen para tus clientes. Ten en cuenta que aquellas empresas que hacen lo mismo que tú también podrían llegar a reemplazarte. Una vez que identifiques a tus competidores, <strong>aprende todo lo que puedas sobre ellos</strong>, como por ejemplo:</p>
+<ol>
+<ul>
+<li>¿Dónde se publicitan?</li>
+<li>¿Cómo gestionan la atención al cliente?</li>
+<li>¿Qué funcionalidades tiene su web?</li>
+<li>¿Cómo ponen los precios a sus productos?</li>
+<li>¿En qué es mejor su página? ¿En qué la tuya?</li>
+</ul>
+</ol>
+<p>Así mismo, calibra los esfuerzos en marketing de tus competidores. Una de las mejores herramientas recomendadas por el propietario de un comercio online es <a href="http://www.semrush.com/" target="_blank">SEMRush</a>, la cual proporciona informes completos sobre el trabajo que realizan en SEM y SEO una empresa.</p>
+<blockquote>
+<h4><span style="color: #428ea5;"><strong> 3. “SEO no es tan sólo otro acrónimo más.” </strong></span></h4>
+</blockquote>
+<p>Entiende la importancia del SEO (posicionamiento en buscadores) desde el principio. Como acabas de ver arriba, <strong>el posicionamiento en buscadores es el hilo del que pende tu negocio en Internet</strong>. Familiarízate con las mejores prácticas en SEO antes de comenzar a realizar cualquier tipo de inversión en SEO.</p>
+<p>Los siguientes artículos te ayudarán a comprender claramente el SEO y cómo puede ayudarte en tu ecommerce:</p>
+<ol>
+<ul>
+<li>The Ultimate Guide to SEO for E-commerce Websites de <a href="http://blog.kissmetrics.com/seo-for-ecommerce-websites/" target="_blank">KissMetrics</a></li>
+<li>Perfecting On-Page Optimization for Ecommerce Websites de<a href="http://moz.com/blog/perfecting-onpage-optimization-for-ecommerce-websites" target="_blank"> Moz</a></li>
+<li>60 SEO Tips and Online Marketing Techniques for Ecommerce Websites de <a href="http://www.webseoanalytics.com/blog/60-seo-tips-online-marketing-techniques-for-ecommerce-websites/" target="_blank">WebSEO</a></li>
+</ul>
+</ol>
+<p>Una cosa que muchos vendedores también hubiesen preferido saber es que Google cambia sus reglas con cierta frecuencia. Asegúrate de estar siempre a la última en las mejores prácticas apuntándote a <a href="https://www.google.com/webmasters/tools/home?hl=es" target="_blank">Google’s Webmaster Tools</a>.</p>
+<blockquote>
+<h4><span style="color: #428ea5;"><strong> 4. “En el mundo del ecommerce, también existen defraudadores.” </strong></span></h4>
+</blockquote>
+<p>Cuando comienzas a vender en Internet, abres tus puertas “digitales” a todo tipo de personas con todos los tipos de vida. Solo porque operes según un código moral no significa que el resto de personas también lo haga.<strong> Cuidado con la gente, en concreto los defraudadores, que operan con poca ética.</strong> Algunos ejemplos de situaciones en las que los vendedores online se ven incluidos son:</p>
+<ol>
+<ul>
+<li>Devolución de cargos por uso no autorizado de una tarjeta de crédito</li>
+<li>Reclamaciones sobre paquetes dañados o no entregados</li>
+<li>Clientes que devuelven los bienes usados</li>
+<li>Hackers que intentan robar información de clientes</li>
+</ul>
+</ol>
+<p>Para prevenir la devolución de cargos de tarjetas de crédito, vigila atentamente las características de un <a href="http://www.prestashop.com/blog/en/canada-7-tips-on-fraud-and-risk-control-for-ecommerce/" target="_blank">fraude de “tarjeta no presente”</a>. Grandes compras, múltiples compras de una sola vez o la venta de un artículo proveniente de una página con poco tráfico son algunos ejemplos. Recuerda que según introduzcas obstáculos para prevenir actividad fraudulenta, lo complicas también para el resto de tus clientes. Por ejemplo, las contraseñas seguras que alejan a los hackers – 8 caracteres de longitud con un número, letra y símbolo – también acaban por frustrar a los compradores.</p>
+<blockquote>
+<h4><span style="color: #428ea5;"><strong>5. “Ponte siempre en el lugar de tu cliente.” </strong></span></h4>
+</blockquote>
+<p>Ver las cosas desde tu perspectiva es muy fácil. Pero cuando comiences a considerar cualquier decisión sobre tu tienda online, asegúrate de pensar sobre el efecto que causará a tu cliente. <a href="http://www.forbes.com/sites/groupthink/2013/07/03/online-personas-the-key-to-converting-customers/" target="_blank">Crea un perfil</a>, dale un nombre y siempre considera lo que pensaría.</p>
+<p style="padding-left: 30px;">Por ejemplo, para proporcionar mejores boletines personalizados, un vendedor necesita que los clientes rellenen más información sobre ellos mismos. Sin embargo, en vez de aprender más sobre sus clientes, lo que consigue es espantarlos. Una vez que los clientes han visto el número de campos requeridos y la cantidad de información privada que tienen que introducir, abandonan el carrito.</p>
+<p style="padding-left: 30px;">Otro vendedor decidió quitar los gastos de envío incrementados eliminando el envío especial. Los clientes ahora tienen que pagar los gastos de envío indistintamente del total de venta. Aunque esperaban una disminución pequeña en los pedidos, no esperaban una disminución del ticket medio de camino. Consiguieron contrarrestar los gastos de envió, pero verdaderamente acabaron perdiendo ingresos debido a una cantidad inferior en los pedidos.</p>
+<p>Conclusión:<strong> Siempre considera cómo tus decisiones afectarán a tu cliente</strong>.</p>
+<blockquote>
+<h4><strong><span style="color: #428ea5;"> 6. “No infravalores el poder de un toque personal.”</span><br />
+</strong></h4>
+</blockquote>
+<p>Vender a través de un mostrador digital incentiva que te olvides de que <strong>los clientes son personas</strong> – auténticos seres humanos. El mundo del ecommerce puede ser impersonal, pero eso es fácil de cambiar añadiendo un toque personal. Esta es una buena manera de diferenciarte de tiendas online gigantescas como Amazon. Añadir un toque personal puede parecer contra productivo por la cantidad de tiempo que se emplea, pero ayuda a la larga.</p>
+<p>Algunos vendedores sorprenden a sus clientes con pequeños regalos con cada pedido. Ellos no lo usan como una estratagema de marketing o una técnica de ventas, sino como una forma de decir “gracias” por su patrocinio. Esos simples gestos hacen que los clientes vuelvan una y otra vez. Esto se refleja en los beneficios ahorrando innumerables euros que de otra forma habrían sido gastados adquiriendo nuevos clientes.</p>
+<blockquote>
+<h4><span style="color: #428ea5;"><strong>7. “Escucha.” </strong></span></h4>
+</blockquote>
+<p>Es un concepto muy simple pero el reto se encuentra en su ejecución. Tanto si es tu cliente, como tu desarrollador o tu equipo, es importante <strong>tomarse tiempo para escuchar lo que tienen que decirte.</strong> Cuando prestas atención al cliente, tómate tu tiempo para entender los problemas del cliente. Si no eres capaz de explicar con tus propias palabras los problemas del cliente, realmente no los has entendido. Tomarse un tiempo para escuchar no sólo te ayudará a dar un mejor servicio sino que conducirá a un incremento en la fidelización del cliente. También deberías <a href="http://www.fatlabwebsupport.com/blog/listen-web-developer-flexible-better-product/" target="_blank">escuchar a tu equipo de desarrollo.</a> No solo crea una buena relación laboral sino que acelera el proceso de desarrollo. Indistintamente de a quién estén escuchando, asegúrate de interpretarlo debidamente. Entiende su perspectiva y de dónde surgen sus ideas/preocupaciones. ¿Lo están diciendo para mejorar tu producto/tienda online o simplemente son vagos?</p>
+<blockquote>
+<h4><strong><span style="color: #428ea5;">8. “Eres tan fuerte como tu eslabón más débil”</span> </strong></h4>
+</blockquote>
+<p>Llevar una tienda online con éxito normalmente involucra a un pequeño equipo de personas. Tu equipo está formado por cualquiera que te haya ayudado a preparar tu tienda para el lanzamiento. Eso incluye a todo el mundo: desde el fotógrafo, al desarrollador e incluso el inversor. El eslabón más débil en tu empresa no es necesariamente la persona que contribuye menos o trabaja el menor número de horas. Es la persona que tiene la actitud más negativa. No pretendo montar una cruzada contra nadie que tenga un mal día, porque todos nosotros tenemos de esos. Me refiero a que tomes nota de <strong>quienes no crean en tu producto o servicio</strong> y minen la moral de la compañía. Recuerda que formas parte del equipo y que tu moral cuenta. Prueba estos consejos de <a href="http://www.smallbusinesscomputing.com/tipsforsmallbusiness/hire-positive-people-to-build-a-thriving-business.html" target="_blank">Small Business Computing</a> para crear un equipo positivo para tu negocio online.</p>
+<blockquote>
+<h4><span style="color: #428ea5;"><strong>9. “Hecho es mejor que perfecto”</strong></span></h4>
+</blockquote>
+<p>En un mundo ideal, todo debería funcionar como un reloj suizo. Dispondrías de imágenes de calidad para tus productos, cada descripción de producto estaría libre de errores y estaría preparada para SEO, y tu web tendría un buen diseño agradable responsive – hasta el último pixel. Sin embargo, en la realidad, rara vez este es el caso. Los problemas surgen y als cosas no siempre salen como quieres. Según nos cuenta un vendedor: aprende pronto que no todo tiene que ser perfecto. Una descripción de producto muy simple es mejor que un producto sin descripción. Lo mismo ocurre con las redes sociales. Actuar y reaccionar a los tuits todos los días aporta más valor que una campaña en redes sociales perfectamente cronometrada y elaborada. <strong>Conformándote con lo suficientemente bueno, conseguirás hacer más</strong> lo cual te deja tiempo para perfeccionar aquello que importa. ¿Es tu web lo suficientemente buena? Asegúrate de que tienes estas <a title="Las 10 Cosas más importantes que los Clientes buscan en su E-commerce" href="http://www.prestashop.com/blog/es/las-10-cosas-mas-importantes-que-los-clientes-buscan-en-su-e-commerce/" target="_blank">10 cosas que los clientes miran en tu ecommerce</a>.</p>
+<blockquote>
+<h4><span style="color: #428ea5;"><strong>10. “Todo tiene su fin.”</strong></span></h4>
+</blockquote>
+<p>Resulta duro pensar en el fin de tu negocio justo cuando comienzas, pero disponer de una estrategia de salida concreta es importante. Sí, claro, la estrategia de salida de ser parte de tu plan de negocio, pero recalcamos cómo de importante es incluyéndola aquí otra vez. La posibilidad de que tus hijos hereden el negocio, incluso si ellos lo quisieran, es muy pequeña. El siguiente consejo ayudó a un vendedor a darse cuenta de la necesidad de disponer de una estrategia de salida.</p>
+<p><strong>No eres el negocio online, sino un empleado del negocio.</strong> Como empleado, lo que inviertes en la empresa te debe ser devuelto cuando la empresa comience a dar beneficios. Tanto si eliges llevar tu negocio para siempre o vendérselo a alguien, una estrategia de salida te ayudará a tener una visión global. Cuando se trate de realizar decisiones importantes, te ayudará a ver más allá de los beneficios de la última semana para tomar decisiones que te beneficien a la larga.</p>
+<p>Conoce algunos ejemplos de estrategias de salida en <a href="http://www.entrepreneur.com/article/78512" target="_blank">Entrepreneur</a>. Después descubre cuál es la mejor para ti con este artículo de <a href="http://www.inc.com/guides/2010/10/how-to-choose-an-exit-strategy.html" target="_blank">INC Magazine.</a></p>
+<p>¿Qué consejo interiorizarás? Si ya tienes una tienda online, ¿qué consejo compartirías con un vendedor novato? Cuéntanos tu historia en los comentarios de debajo.</p>
+<div>
+<hr align="left" size="2" width="20%" />
+</div>
+<p>Ahora ya sabes lo suficiente para abrir tu propio negocio online. Conoce más sobre PrestaShop probando nuestra <a href="http://www.prestashop.com/es/demo" target="_blank">demo </a>o <a href="http://www.prestashop.com/es/download" target="_blank">descargándote </a>el software para comenzar desde hoy.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/10-cosas-que-me-hubiese-gustado-saber-antes-de-abrir-un-ecommerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 		<item>
 		<title>7 Estrategias que Implementar Cuando El Tráfico hacia Su Web Cae</title>
 		<link>http://www.prestashop.com/blog/es/7-estrategias-que-implementar-cuando-el-trafico-hacia-su-web-cae/</link>
@@ -411,260 +551,9 @@ Aunque el e-commerce de aquí aún está dando sus primeros pasos, crece de form
 			<wfw:commentRss>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-argentina-nuestra-primera-parada-en-sudamerica/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
-		<item>
-		<title>Las Listas de Control más Inteligentes para Gestionar tu Tienda Online</title>
-		<link>http://www.prestashop.com/blog/es/las-listas-de-control-mas-inteligentes-para-gestionar-tu-tienda-online/</link>
-		<comments>http://www.prestashop.com/blog/es/las-listas-de-control-mas-inteligentes-para-gestionar-tu-tienda-online/#comments</comments>
-		<pubDate>Tue, 22 Apr 2014 15:13:07 +0000</pubDate>
-		<dc:creator>Julie Liu</dc:creator>
-				<category><![CDATA[Consejos E-commerce]]></category>
-
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11353</guid>
-		<description><![CDATA[Hacemos listas para todo – desde la lista de la compra semanal hasta la lista de propósitos anuales. Estas listas de control nos ayudan a organizarnos y no dejarnos nada atrás. Por este motivo hemos creado las listas de control &#8230; <a href="http://www.prestashop.com/blog/es/las-listas-de-control-mas-inteligentes-para-gestionar-tu-tienda-online/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
-			<content:encoded><![CDATA[<p>Hacemos listas para todo – desde la lista de la compra semanal hasta la lista de propósitos anuales. Estas listas de control nos ayudan a organizarnos y no dejarnos nada atrás. Por este motivo hemos creado las listas de control más inteligentes para gestionar tu tienda online. Hemos recopilado una lista de tareas clave para llevar un negocio online y las hemos agrupado según la frecuencia con la que deben realizarse.<br />
-<img class="aligncenter size-full wp-image-11354" src="http://www.prestashop.com/blog/es/files/2014/04/ES_-Ecommerce-Checklist.jpg" alt="" width="580" height="299" /> <span id="more-11353"></span>Las siguientes listas de control está desglosadas según la frecuencia – a diario, semanalmente o mensualmente. Además hemos ido un paso más allá y las hemos organizado según su función dentro del negocio. A continuación mostramos el tipo de tareas según su importancia:</p>
-<p style="padding-left: 30px">• <strong>Operaciones </strong>(necesarias para mantener el negocio funcionando)<br />
-• <strong>Atención al Cliente </strong>(atender cualquier problema / incidencia de los clientes)<br />
-• <strong>Experiencia de Usuario</strong> (facilitar a tus clientes utilizar tu tienda online)<br />
-• <strong>Reunir Datos </strong>(reunir información de forma proactiva)<br />
-• <strong>Planear</strong> (planificar de cara a próximos eventos)<br />
-• <strong>Analizar</strong> (extraer conclusiones de los datos recogidos)</p>
-<h4><span style="color: #dc143c">La Lista de Control Diaria de PrestaShop:</span></h4>
-<p>La lista de control diaria debería completarse… a diario. Debería así mismo ser completada en el orden mostrado. Aunque recoger datos tiene menor prioridad que operaciones o atención al cliente, estas tareas son fáciles de completar. Que sean las primeras de la mañana, sino después se quedarán atrás.</p>
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td valign="top" width="432">    √  Leer Noticias relacionadas con tu Industria</td>
-<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Leer Noticias sobre Tiendas Online</td>
-<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Anotar Cualquier Idea / Problema con Tu Sitio</td>
-<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  <a href="http://www.prestashop.com/blog/es/gestione-la-logistica-de-su-tienda-online-desde-dentro/" target="_blank">Gestionar la Logística</a> (Satisfacer, Procesar y Empacar Pedidos)</td>
-<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Leer y Responder los Emails al Servicio de Atención al Cliente</td>
-<td style="text-align: center" valign="top" width="144">AT. CLIENTES</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Participar / Publicar Contenido en Redes Sociales</td>
-<td style="text-align: center" width="144">AT. CLIENTES</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Leer / Atender Comentarios de Clientes (en Redes Sociales)</td>
-<td style="text-align: center" width="144">AT. CLIENTES</td>
-</tr>
-</tbody>
-</table>
-<div></div>
-<div></div>
-<h4><span style="color: #dc143c">La Lista de Control Semanal de PrestaShop:</span></h4>
-<p>La lista de control semanal deberías completarla el día de la semana con menor número de ventas. Si trabajas de lunes a viernes, cualquier día entremedio. De esta forma, tendrás tiempo de sobra ese día para completar la lista de control diaria y semanal.</p>
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td valign="top" width="432">    √  Satisfacer Pedidos de Otros Mercados</td>
-<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Realizar Seguimiento de tus Envíos</td>
-<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Procesar Devoluciones / Descambio</td>
-<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  (Si múltiples divisas) Actualizar Tasas de Cambio</td>
-<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Reabastecimiento / Reordenar Inventario &amp; Suministros</td>
-<td style="text-align: center" width="144">OPERACIONES</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Tareas de Contabilidad / Balances (En serio, no lo dejes pasar)</td>
-<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Mantener el Contacto con los Clientes Recomendados</td>
-<td style="text-align: center" valign="top" width="144">AT. CLIENTES</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Probar Proceso de Pago (Todo los Procesadores de Pago)</td>
-<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Probar Filtros de Producto<br />
-<span style="color: #ffffff">.</span>            (Debería Devolver Resultados Acertados)</td>
-<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Probar todos los enlaces (Sin Páginas <a title="Error HTTP 404 Página No Encontrada –Explicado y Resuelto" href="http://www.prestashop.com/blog/es/error-http-404-pagina-no-encontrada-explicado-y-resuelto/" target="_blank">de Error 404</a>)</td>
-<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Probar la Búsqueda para Mejorar la Búsqueda Inteligente</td>
-<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Probar en Dispositivos Móviles</td>
-<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Probar la Tienda Online en Todos los Navegadores</td>
-<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Probar Cada Categoría (Debería Contener Productos)</td>
-<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Revisar Ventas</td>
-<td style="text-align: center" valign="top" width="144">ANALIZAR</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Revisar tus Campañas de Marketing / Ventas</td>
-<td style="text-align: center" valign="top" width="144">ANALIZAR</td>
-</tr>
-</tbody>
-</table>
-<h4></h4>
-<h4><span style="color: #dc143c">La Lista de Control <strong>Mensual</strong> de PrestaShop:</span></h4>
-<p>La lista de control mensual no debería realizarse en ningún día concreto sino a lo largo del mes. Cuando distribuyas las tareas, agrúpalas por funciones – de esta manera completarás tareas similares. Las tareas más importantes en la planificación mensual son las planear. Así mismo también son importantes las tareas de analizar los datos de venta – los cuales te ayudarán a planear.</p>
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td valign="top" width="432">    √  Planear Próximas Temporadas de Venta<br />
-<span style="color: #ffffff">.</span>            (incluye <a title="Fechas Importantes de Venta para Vendedores Online en 2014" href="http://www.prestashop.com/blog/es/fechas-importantes-de-venta-para-vendedores-online-en-2014/" target="_blank">Fechas Importantes de Compra</a>)</td>
-<td style="text-align: center" valign="top" width="144">PLANEAR</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Planear Publicidad / Marketing (para un mes)</td>
-<td style="text-align: center" valign="top" width="144">PLANEAR</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Describir Entradas en las Redes Sociales (para un mes)</td>
-<td style="text-align: center" valign="top" width="144">PLANEAR</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Revisar Ventas</td>
-<td style="text-align: center" width="144">ANALIZAR</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Definir Los Mejor Vendidos</td>
-<td style="text-align: center" width="144">ANALIZAR</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Definir Los Peor Vendidos</td>
-<td style="text-align: center" width="144">ANALIZAR</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Pronosticar Ventas</td>
-<td style="text-align: center" width="144">ANALIZAR</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Anotar Los Mejores Clientes</td>
-<td style="text-align: center" valign="top" width="144">ANALIZAR</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Actualizar la lista de emails inscritos al Boletín</td>
-<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Vigilar los Precios de la Competencia</td>
-<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Suscribirte al Boletín de la Competencia</td>
-<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Solicitar <a href="http://www.usertesting.com/" target="_blank">Opinión sobre tu Sitio</a></td>
-<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Probar la Velocidad de tu Página</td>
-<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Asegurarse de que Cada Página tiene una<br />
-<span style="color: #ffffff">.</span>            <a title="La importancia de los botones de llamada a la acción en su tienda online" href="http://www.prestashop.com/blog/es/la-importancia-de-los-botones-de-llamada-a-la-accion-en-su-tienda-online/" target="_blank">Llamada a la Acción Clara</a> (Añadir al Carrito)</td>
-<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Probar Banner de Suscripción al Boletín</td>
-<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
-</tr>
-<tr>
-<td valign="top" width="432">    √  Actualizar Banners para Destacar las Ofertas Actuales</td>
-<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
-</tr>
-</tbody>
-</table>
-<div>
-<p>Descarga e imprime <a href="http://www.prestashop.com/blog/en/files/2014/04/ES-The-PrestaShop-Smart-Checklists-to-Manage-your-Online-Store.pdf" target="_blank">las listas de control diario, semanal y mensual</a>  y comienza a organizar tu agenda e-commerce. Comparte otras tácticas que te ayuden a organizar su calendario con nosotros en los comentarios. También avísanos si nos hemos dejado alguna tarea importante en el tintero.</p>
-<div>
-<hr align="left" size="2" width="33%" />
-</div>
-<p>¿Todavía no vendes en Internet? <a href="http://www.prestashop.com/es/demo" target="_blank">Prueba </a>PrestaShop y descubre por qué es la mejor plataforma para vender online o <a href="http://www.prestashop.com/es/descarga" target="_blank">descárgate </a>el mejor software de comercio electrónico y ¡comienza a vender hoy!</p>
-</div>
-]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/las-listas-de-control-mas-inteligentes-para-gestionar-tu-tienda-online/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Cómo elegir un proveedor de hospedaje web para tu tienda online</title>
-		<link>http://www.prestashop.com/blog/es/como-elegir-un-proveedor-de-hospedaje-web-para-tu-tienda-online/</link>
-		<comments>http://www.prestashop.com/blog/es/como-elegir-un-proveedor-de-hospedaje-web-para-tu-tienda-online/#comments</comments>
-		<pubDate>Mon, 21 Apr 2014 13:53:34 +0000</pubDate>
-		<dc:creator>Julie Liu</dc:creator>
-				<category><![CDATA[Asociados PrestaShop]]></category>
-
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11336</guid>
-		<description><![CDATA[Si estas comenzando tu propio negocio online, este artículo puede resultarte de gran ayuda. En primer lugar, queremos felicitarte, pues es fundamental informarse para tomar las decisiones iniciales correctas en la creación de tu tienda online. Probablemente hayas escuchado que &#8230; <a href="http://www.prestashop.com/blog/es/como-elegir-un-proveedor-de-hospedaje-web-para-tu-tienda-online/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
-			<content:encoded><![CDATA[<p>Si estas comenzando tu propio negocio online, este artículo puede resultarte de gran ayuda. En primer lugar, queremos felicitarte, pues es fundamental informarse para tomar las decisiones iniciales correctas en la creación de tu tienda online.</p>
-<p>Probablemente hayas escuchado que es esencial un buen proveedor de hosting, pero con tantas opciones disponibles, ¿cómo elegir la mejor? Estos son los 5 aspectos más importantes:</p>
-<p style="text-align: center"><img class="aligncenter  wp-image-11337" src="http://www.prestashop.com/blog/es/files/2014/04/ES-InMotion-Hosting-Main.jpg" alt="" width="580" height="278" /></p>
-<p><span id="more-11336"></span></p>
-<h2><span style="color: #696969">1. Velocidad</span></h2>
-<p>Vivimos en un mundo donde todo cambia deprisa y en internet más aún, buscamos información precisa y la queremos al instante. Desde que Google comenzó a tener en cuenta el tiempo de carga de las páginas como factor SEO, la velocidad de carga se ha convertido en un elemento esencial. Afecta a la conversión de tu tienda, el posicionamiento en los motores de búsqueda y el trámite del pago. Según <a href="http://blog.kissmetrics.com/loading-time/" target="_blank">esta infografía</a> vemos que cada segundo cuenta y que un nivel de velocidad de carga bajo es un factor correlacionado con páginas abandonadas y ventas perdidas.</p>
-<p>El hosting es, sin duda, el principal factor cuando se habla de la velocidad de carga. Un hosting de buena calidad es indispensable, por eso PrestaShop se ha asociado con InMotion Hosting, líder mundial en alojamiento de páginas web. Con centros de datos múltiples, InMotion ofrece la velocidad de carga más rápida en todo el mundo.</p>
-<h2><span style="color: #696969">2. Atención al cliente</span></h2>
-<p>Cuando consideres un hosting, elige la compañía con la mejor atención al cliente. Tener una tienda online significa estar conectado constantemente, por eso <a href="https://secure1.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=prestashop&amp;page=344" target="_blank">InMotion Hosting</a> brinda un servicio de atención al cliente disponible las 24 horas. Puedes chatear con el equipo de ventas, llamar por teléfono, o participar en los foros para obtener la información que necesites. Además, ¡InMotion ofrece un canal educativo especial para los usuarios de PrestaShop!</p>
-<p>Verifica que el proveedor de hosting también tenga buenos ratings. Compañías como BBB y Cnet han otorgado calificaciones perfectas a InMotion durante cuatro años consecutivos, demostrando el nivel de confianza del equipo de atención al cliente.</p>
-<p style="text-align: center"><img class="aligncenter size-full wp-image-11339" src="http://www.prestashop.com/blog/es/files/2014/04/logo.png" alt="" width="137" height="83" /></p>
-<h2><span style="color: #696969">3. Almacenamiento en disco</span></h2>
-<p>Las medidas que diferencian a los distintos proveedores de hosting son el espacio o capacidad en disco y la transferencia de datos permitida. El espacio en disco es la cantidad de datos o información que puedes almacenar en tu cuenta de hosting. La cantidad de almacenamiento que requieres tiene una relación directa con el tamaño de la página web que vayas a instalar. Dependiendo de cuántas imágenes y videos necesites para tu tienda online, puedes necesitar cantidades importantes de almacenamiento.</p>
-<p>Hay empresas de hospedaje web que limitan la cantidad de datos que puedes almacenar y la cantidad de transferencias que puedes hacer por mes. Pero, proveedores como InMotion ofrecen almacenamiento y transferencias ilimitadas ya que son esenciales al empezar tu tienda online.</p>
-<h2><span style="color: #696969">4. Dominios</span></h2>
-<p>El dominio es el nombre que identifica una página web. Todos los dominios son únicos en Internet, y se identifican con: www, el nombre de la web, extensión o tipo de organización. Lee la entrada del blog de PrestaShop para saber cómo <a href="http://www.prestashop.com/blog/es/como-elegir-el-dominio-adecuado-para-su-tienda-online/" target="_blank">elegir un domino adecuado</a>.</p>
-<p>Conseguir un dominio gratuito puede ser una buena idea, pero recomendamos disponer también de otras opciones. Los dominios adicionales sirven como reserva en caso de que necesites más páginas web. Por ejemplo, si buscas la página web www.prestashop.org serás automáticamente redirigido a www.prestashop.com. Con 6 dominios incluidos, InMotion te ayudará a encontrar fácilmente los dominios perfectos para tu tienda online.</p>
-<p style="text-align: center"><img class="aligncenter size-full wp-image-11340" src="http://www.prestashop.com/blog/es/files/2014/04/www.jpg" alt="" width="150" height="120" /></p>
-<h2><span style="color: #696969">5. Seguridad</span></h2>
-<p>Un certificado SSL (Secure Socket Layer) sirve para asegurar al visitante sobre la página web, una manera de decir a tus clientes que el sitio es auténtico, real y de confianza para introducir datos personales. Es un protocolo de seguridad que hace que tus datos viajen de manera íntegra y segura para evitar que los hackers roben la información confidencial de tus clientes. InMotion ofrece páginas con SSL privados para prevenir cualquier inconveniente.</p>
-<p style="text-align: center"><img class="aligncenter  wp-image-11338" src="http://www.prestashop.com/blog/es/files/2014/04/InMotion-Hosting-Logo.png" alt="" width="271" height="107" /></p>
-<p>Además de cumplir y superar las 5 funciones más importantes de un proveedor de alojamiento web, InMotion también ofrece a los usuarios de PrestaShop:</p>
-<p style="padding-left: 30px">• 99.99% uptime<br />
-• Backups automáticos<br />
-• +300 aplicaciones gratis<br />
-• Cuentas de correo electrónico protegidas<br />
-• Devolución de dinero</p>
-<p>¡Comienza tu tienda online hoy mismo! Asegúrate de unos tiempos de carga óptimos gracias al pack PrestaShop preinstalado en InMotion Hosting a un <a href="https://secure1.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=prestashop&amp;page=344" target="_blank">precio especial</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/como-elegir-un-proveedor-de-hospedaje-web-para-tu-tienda-online/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Served from: www.prestashop.com @ 2014-05-29 20:56:03 -->
+Served from: www.prestashop.com @ 2014-06-04 23:56:02 -->

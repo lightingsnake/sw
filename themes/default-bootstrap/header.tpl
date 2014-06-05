@@ -147,7 +147,9 @@
 					<div class="row">
 						{if isset($left_column_size) && !empty($left_column_size)}
 						{$HOOK_LEFT_COLUMN}
-						{/if}
+						{else}
 						{$HOOK_CATEGORY}
+						{/if}
+
 						<div id="center_column" class="center_column col-xs-12 col-sm-{12 - $left_column_size - $right_column_size}">
 	{/if}

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-04 00:40:15
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-05 06:12:13
          compiled from "D:\xampp\htdocs\swm\sw\themes\default-bootstrap\header.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:26282538510ba73ac89-52789569%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '332fcb199b1c45d3abcfea690635c0d0755e02b5' => 
     array (
       0 => 'D:\\xampp\\htdocs\\swm\\sw\\themes\\default-bootstrap\\header.tpl',
-      1 => 1401835205,
+      1 => 1401941531,
       2 => 'file',
     ),
   ),
@@ -216,8 +216,10 @@ $_smarty_tpl->tpl_vars['media']->_loop = true;
 						<?php if (isset($_smarty_tpl->tpl_vars['left_column_size']->value)&&!empty($_smarty_tpl->tpl_vars['left_column_size']->value)){?>
 						<?php echo $_smarty_tpl->tpl_vars['HOOK_LEFT_COLUMN']->value;?>
 
-						<?php }?>
+						<?php }else{ ?>
 						<?php echo $_smarty_tpl->tpl_vars['HOOK_CATEGORY']->value;?>
+
+						<?php }?>
 
 						<div id="center_column" class="center_column col-xs-12 col-sm-<?php echo 12-$_smarty_tpl->tpl_vars['left_column_size']->value-$_smarty_tpl->tpl_vars['right_column_size']->value;?>
 ">
